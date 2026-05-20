@@ -1,0 +1,30 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| GPU编程与优化 | 方民权 / 张卫民 / 方建滨 | [下载](https://url89.ctfile.com/f/31084289-1357758590-6d3ab7?p=8866) |
+| 数字信号处理的FPGA实现(第4版) | 乌韦·迈耶-贝斯 | [下载](https://url89.ctfile.com/f/31084289-1361652950-bb4454?p=8866) |
+| The Boost Graph Library | JeremyG.Siek / Lie-QuanLee / AndrewLumsdaine | [下载](https://url89.ctfile.com/f/31084289-1439919236-ab88d8?p=8866) |
+| 勇敢的芯伴你玩转AlteraFPGA/电子设计与嵌入式开发实践丛书 | 吴厚航 | [下载](https://url89.ctfile.com/f/31084289-1357691534-fa7005?p=8866) |
+| 高等代数学习指导书（第二版：上册） | 未知 | [下载](https://url89.ctfile.com/f/31084289-1439920223-e2f40d?p=8866) |
+| 脉冲功率器件及其应用 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1357763114-0a3d54?p=8866) |
+| 机械工程材料 第4版 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1373176639-f38188?p=8866) |
+| 软件工程（原书第8版·本科教学版） | 未知 | [下载](https://url89.ctfile.com/f/31084289-1357765436-b9d54a?p=8866) |
+| 电脑维修基础不是事儿（附DVD光盘）（全彩） | 未知 | [下载](https://url89.ctfile.com/f/31084289-1362006194-8d8a82?p=8866) |
+| The Probability Lifesaver | StevenJ.Miller | [下载](https://url89.ctfile.com/f/31084289-1373183581-f63f0a?p=8866) |
+| Open Circuits | EricSchlaepfer / WindellH.Oskay | [下载](https://url89.ctfile.com/f/31084289-1373193305-d695d4?p=8866) |
+| 系统编程 | RichardJohnAnthony | [下载](https://url89.ctfile.com/f/31084289-1439957303-646cf8?p=8866) |
+| 半导体器件物理与工艺（第三版） | 未知 | [下载](https://url89.ctfile.com/f/31084289-1439861657-04cd88?p=8866) |
+| Leni Riefenstahl | LeniRiefenstahl | [下载](https://url89.ctfile.com/f/31084289-1357668668-924e3a?p=8866) |
+| 紫金山天文台史 | 江晓原 / 吴燕 | [下载](https://url89.ctfile.com/f/31084289-1439880332-c03cb9?p=8866) |
+| Microelectronics Circuit Analysis and Design | DonaldNeamen | [下载](https://url89.ctfile.com/f/31084289-1357674812-7c14a6?p=8866) |
+| 黑牆裡的倖存者 | 齊家貞 | [下载](https://url89.ctfile.com/f/31084289-1373333734-105360?p=8866) |
+| 冯毅之六十年作品选 | 冯毅之 / 鲁风 | [下载](https://url89.ctfile.com/f/31084289-1373135431-a7c4db?p=8866) |
+| 認知與評價 | 陳瑞麟 | [下载](https://url89.ctfile.com/f/31084289-1357679372-bfccfd?p=8866) |
+| 证明方法与理论 | 张寅生 | [下载](https://url89.ctfile.com/f/31084289-1357680674-611e23?p=8866) |
+| 现代整流器技术 | 徐德鸿 | [下载](https://url89.ctfile.com/f/31084289-1373146183-3759f3?p=8866) |
+| 清代西迁新疆察哈尔蒙古满文档案全译 | 吴元丰 / 胡兆斌 / 阿拉腾奥其尔 | [下载](https://url89.ctfile.com/f/31084289-1373147581-0b0439?p=8866) |
+| 深入浅出玩转FPGA（第4版） | 吴厚航 | [下载](https://url89.ctfile.com/f/31084289-1361612777-4496ce?p=8866) |
+| 蜉蝣天地话沧桑 | 资中筠 | [下载](https://url89.ctfile.com/f/31084289-1373152621-ca4b7d?p=8866) |
+| 左舜生先生晚期言論集 | 陳正茂 | [下载](https://url89.ctfile.com/f/31084289-1439916029-1619dd?p=8866) |
+| Digital Design and Computer Architecture: RISC-V Edition | DavidHarris / SarahHarris | [下载](https://url89.ctfile.com/f/31084289-1373154916-557bd8?p=8866) |
+| 代数学（下） | 莫宗坚 / 蓝以中 / 赵春来 | [下载](https://url89.ctfile.com/f/31084289-1439916623-aa7af0?p=8866) |
+| 拓扑空间与线性拓扑空间中的反例 | 汪林 | [下载](https://url89.ctfile.com/f/31084289-1357749830-61d9e6?p=8866) |

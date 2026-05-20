@@ -1,0 +1,4 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| Arabic from the Beginning | ImranHamzaAlawiye | [下载](https://url89.ctfile.com/f/31084289-1439832968-89e531?p=8866) |
+| Kallimni 'Arabi Bishweesh | Louis / Samia/Guirges / Nessim | [下载](https://url89.ctfile.com/f/31084289-1357695137-85a7d7?p=8866) |

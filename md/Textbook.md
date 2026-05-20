@@ -1,0 +1,30 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| 新编大学德语 | 王依 | [下载](https://url89.ctfile.com/f/31084289-1361650349-658297?p=8866) |
+| Organizational Behaviour | AndreHuczynski | [下载](https://url89.ctfile.com/f/31084289-1439918900-d478e0?p=8866) |
+| 微生物生物学 | MichaelMadigan / JohnMartinko | [下载](https://url89.ctfile.com/f/31084289-1357691273-37b37f?p=8866) |
+| Vitruvius | Vitruvius | [下载](https://url89.ctfile.com/f/31084289-1357761224-730b99?p=8866) |
+| Calculus | JamesStewart | [下载](https://url89.ctfile.com/f/31084289-1357762328-bc017a?p=8866) |
+| 数值线性代数 | 徐树方 / 高立 / 张平文 | [下载](https://url89.ctfile.com/f/31084289-1357692614-0ada90?p=8866) |
+| Plasmonics | StefanAlexanderMaier | [下载](https://url89.ctfile.com/f/31084289-1373180995-a0819b?p=8866) |
+| Global Business Today | CharlesW.L.Hill | [下载](https://url89.ctfile.com/f/31084289-1373181397-f985a7?p=8866) |
+| 动物免疫学 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1439938676-a94cbf?p=8866) |
+| Antenna Theory | ConstantineA.Balanis | [下载](https://url89.ctfile.com/f/31084289-1439942600-8c585a?p=8866) |
+| Introduction to the Practice of Statistics | DavidS.Moore / BruceCraig / GeorgeP.McCabe | [下载](https://url89.ctfile.com/f/31084289-1357773353-dc3a69?p=8866) |
+| 高等原子分子物理学 | 徐克尊 | [下载](https://url89.ctfile.com/f/31084289-1362360305-bd683e?p=8866) |
+| Python科学计算和数据科学应用(第2版)  使用NumPy、SciPy和matplotlib | 罗伯特·约翰逊 | [下载](https://url89.ctfile.com/f/31084289-1373100562-7e88f6?p=8866) |
+| 自适应滤波器原理 | 赫金 | [下载](https://url89.ctfile.com/f/31084289-1439862416-65da41?p=8866) |
+| Reading Explorer 1 | Douglas / Nancy;NationalGeographic | [下载](https://url89.ctfile.com/f/31084289-1373105461-17ae94?p=8866) |
+| Tonal Harmony | StefanKostka / DorothyPayne | [下载](https://url89.ctfile.com/f/31084289-1357667837-951d3b?p=8866) |
+| 心理剧的核心--心理剧的治疗层面 | P.F.Kellermann | [下载](https://url89.ctfile.com/f/31084289-1373108290-48edfc?p=8866) |
+| 兽医临床诊断学 | 东北农业大学 | [下载](https://url89.ctfile.com/f/31084289-1373114914-19cf4d?p=8866) |
+| Biopsychology | JohnP.J.Pinel | [下载](https://url89.ctfile.com/f/31084289-1373117812-3014c5?p=8866) |
+| 巴斯蒂安成人钢琴教程 第二册 | 简·斯密瑟·巴斯蒂安//丽萨·巴斯蒂安//洛丽·巴斯蒂安\|译者:周挺捷 | [下载](https://url89.ctfile.com/f/31084289-1356306454-41cb8a?p=8866) |
+| Agroecology | Gliessman / StephenR. | [下载](https://url89.ctfile.com/f/31084289-1357675436-927f84?p=8866) |
+| American Popular Music | LarryStarr / ChristopherWaterman | [下载](https://url89.ctfile.com/f/31084289-1357677227-7eff96?p=8866) |
+| The Finite Element Method | OlekCZienkiewicz / RobertLTaylor / J.Z.Zhu | [下载](https://url89.ctfile.com/f/31084289-1373338771-c8b190?p=8866) |
+| Fakhruddin Iraqi | WilliamChittick | [下载](https://url89.ctfile.com/f/31084289-1357679846-0022a3?p=8866) |
+| Business Analytics | SChristianAlbright / WayneLWinstonPh.D. | [下载](https://url89.ctfile.com/f/31084289-1357679879-03bd8d?p=8866) |
+| Calculus | JamesStewart | [下载](https://url89.ctfile.com/f/31084289-1439911172-c6bf92?p=8866) |
+| A Source Book in Chinese Philosophy | Wing-TsitChan | [下载](https://url89.ctfile.com/f/31084289-1373153458-f4e2e8?p=8866) |
+| The Abilene Paradox and Other Meditations on Management | JerryB.Harvey | [下载](https://url89.ctfile.com/f/31084289-1357749461-0c68da?p=8866) |

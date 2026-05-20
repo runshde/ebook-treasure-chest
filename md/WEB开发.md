@@ -1,11 +1,35 @@
-# 版权声明
-
-本站内容均从网上搜集，版权归著作人及版权方所有，如侵犯您的权益，请通知我们，我们将会及时删除！ 下载链接仅供宽带测试研究用途，请下载后在24小时内删除，请勿用于商业目的。请支持正版！
-
-# WEB开发
-
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| JavaScript函数式编程 | Michael Fogus | [下载](https://url89.ctfile.com/f/31084289-1357048030-9c7b24?p=8866) |
-| Node即学即用 | Tom Hughes-Croucher/Mike Wilson | [下载](https://url89.ctfile.com/f/31084289-1357019341-c051bb?p=8866) |
-| PHP和MySQL Web开发（原书第4版） | Luke Welling | [下载](https://url89.ctfile.com/f/31084289-1357005859-aace71?p=8866) |
+| 大型网站性能优化实战 | 周涛明 / 张荣华 / 张新兵 | [下载](https://url89.ctfile.com/f/31084289-1357689791-1f0e5c?p=8866) |
+| SVG精髓（第2版） | J.DavidEisenberg / AmeliaBellamy-Royds | [下载](https://url89.ctfile.com/f/31084289-1439837975-0c19d2?p=8866) |
+| PHP和MySQL Web开发（原书第4版） | Luke·Welling | [下载](https://url89.ctfile.com/f/31084289-1357005859-aace71?p=8866) |
+| Beginning HTML5 and CSS3 | ChristopherMurphy | [下载](https://url89.ctfile.com/f/31084289-1439942726-223b4e?p=8866) |
+| 网页开发手记 | 叶青 | [下载](https://url89.ctfile.com/f/31084289-1375395385-51c00a?p=8866) |
+| HTML5秘籍 | Matthew·MacDonald | [下载](https://url89.ctfile.com/f/31084289-1357006540-4fb712?p=8866) |
+| JavaScript权威指南（第6版） | David·Flanagan | [下载](https://url89.ctfile.com/f/31084289-1357007116-b8fd4f?p=8866) |
+| HTML5 Canvas | SteveFulton / JeffFulton | [下载](https://url89.ctfile.com/f/31084289-1375369342-459878?p=8866) |
+| JSP & Servlet学习笔记 | 林信良 | [下载](https://url89.ctfile.com/f/31084289-1362292466-b45023?p=8866) |
+| 精通CSS（第2版） | Andy·Budd | [下载](https://url89.ctfile.com/f/31084289-1357008904-4f5343?p=8866) |
+| Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用 | yugo | [下载](https://url89.ctfile.com/f/31084289-1362292859-596520?p=8866) |
+| REST API Design Rulebook | MarkMasse | [下载](https://url89.ctfile.com/f/31084289-1439947424-2c4209?p=8866) |
+| 响应式Web设计 | BenFrain | [下载](https://url89.ctfile.com/f/31084289-1375365628-8d795f?p=8866) |
+| Socket.IO Real-Time Web Application Development | Rai / Rohit | [下载](https://url89.ctfile.com/f/31084289-1439962655-7ef9aa?p=8866) |
+| 轻量级Web应用开发 | 邱俊涛 | [下载](https://url89.ctfile.com/f/31084289-1358056040-09eb6e?p=8866) |
+| 高可用可伸缩微服务架构 | 程超 / 梁桂钊 / 秦金卫 | [下载](https://url89.ctfile.com/f/31084289-1373198980-bdd136?p=8866) |
+| Java EE互联网轻量级框架整合开发 | 杨开振 / 周吉文 / 梁华辉 | [下载](https://url89.ctfile.com/f/31084289-1362364646-8dd012?p=8866) |
+| AngularJS权威教程 | AriLerner | [下载](https://url89.ctfile.com/f/31084289-1362366119-488241?p=8866) |
+| 锋利的jQuery（第2版） | 单东林 / 张晓菲 / 魏然 | [下载](https://url89.ctfile.com/f/31084289-1357016728-3282f4?p=8866) |
+| Vue.js入门与商城开发实战 | 黄菊华 | [下载](https://url89.ctfile.com/f/31084289-1357660847-4f0f39?p=8866) |
+| 精通JavaScript | JohnResig | [下载](https://url89.ctfile.com/f/31084289-1439860691-72c58d?p=8866) |
+| 揭秘Angular 2 | 广发证券互联网金融技术团队 | [下载](https://url89.ctfile.com/f/31084289-1439861624-8edd69?p=8866) |
+| Flask Web开发 | MiguelGrinberg | [下载](https://url89.ctfile.com/f/31084289-1357018324-e7bedb?p=8866) |
+| Node即学即用 | TomHughes-Croucher / MikeWilson | [下载](https://url89.ctfile.com/f/31084289-1357019341-c051bb?p=8866) |
+| JavaScript | DouglasCrockford | [下载](https://url89.ctfile.com/f/31084289-1373108203-b5b2bf?p=8866) |
+| Laravel框架关键技术解析 | 陈昊 / 陈远征 / 陶业荣 | [下载](https://url89.ctfile.com/f/31084289-1439874428-dd3948?p=8866) |
+| Web开发敏捷之道 | SamRuby / DaveThomas / DavidHeinemeHansson | [下载](https://url89.ctfile.com/f/31084289-1439874914-2b4892?p=8866) |
+| JavaScript DOM高级程序设计 | JeffreySambells / AaronGustafson | [下载](https://url89.ctfile.com/f/31084289-1439877191-574278?p=8866) |
+| 编写可维护的JavaScript | 扎卡斯 | [下载](https://url89.ctfile.com/f/31084289-1357022983-6dc43b?p=8866) |
+| Modern PHP（中文版） | JoshLockhart | [下载](https://url89.ctfile.com/f/31084289-1439878547-f183f4?p=8866) |
+| You Don't Know JS | KyleSimpson | [下载](https://url89.ctfile.com/f/31084289-1373119465-d4470d?p=8866) |
+| Introduction to Tornado | MichaelDory / AdamParrish / BrendanBerg | [下载](https://url89.ctfile.com/f/31084289-1373353936-ebe5e8?p=8866) |
+| Web应用安全威胁与防治 | 王文君 / 李建蒙 | [下载](https://url89.ctfile.com/f/31084289-1357736207-c1b132?p=8866) |

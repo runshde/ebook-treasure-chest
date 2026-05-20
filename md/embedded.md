@@ -1,0 +1,4 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| 嵌入式C编程与Atmel AVR | 未知 | [下载](https://url89.ctfile.com/f/31084289-1373101798-7593da?p=8866) |
+| ARM嵌入式系统开发 | 斯洛斯 | [下载](https://url89.ctfile.com/f/31084289-1356300871-c4eca1?p=8866) |

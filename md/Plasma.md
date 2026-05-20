@@ -1,0 +1,5 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| Introduction to plasma physics and controlled fusion. Volume 1, Plasma physics | FrancisF.Chen | [下载](https://url89.ctfile.com/f/31084289-1439947052-e8a50f?p=8866) |
+| 等离子体理论基础/北京大学物理学丛书 | 胡希伟 | [下载](https://url89.ctfile.com/f/31084289-1362292817-6da50b?p=8866) |
+| Plasma Physics for Astrophysics | Kulsrud / RussellM. | [下载](https://url89.ctfile.com/f/31084289-1373105152-059c8a?p=8866) |

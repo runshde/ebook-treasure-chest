@@ -1,0 +1,3 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| Reinforcement Learning and Optimal Control | DimitriBertsekas | [下载](https://url89.ctfile.com/f/31084289-1357760264-0a00f1?p=8866) |

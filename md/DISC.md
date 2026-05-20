@@ -1,0 +1,4 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| 常人之情绪 | WilliamMoultonMarston / 威廉·莫尔顿·马斯顿 | [下载](https://url89.ctfile.com/f/31084289-1373192846-a34f29?p=8866) |
+| DISCOVER自我探索（全彩） | 李海峰 | [下载](https://url89.ctfile.com/f/31084289-1357017607-237846?p=8866) |

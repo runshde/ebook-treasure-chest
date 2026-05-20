@@ -1,0 +1,4 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| 中国卡车司机调查报告 | “中国卡车司机调研课题组”著 | [下载](https://url89.ctfile.com/f/31084289-1357769606-a9172b?p=8866) |
+| Intimate Labors | EileenBoris / RhacelSalazarParreñas | [下载](https://url89.ctfile.com/f/31084289-1374958018-dd8675?p=8866) |

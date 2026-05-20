@@ -1,9 +1,11 @@
-# 版权声明
-
-本站内容均从网上搜集，版权归著作人及版权方所有，如侵犯您的权益，请通知我们，我们将会及时删除！ 下载链接仅供宽带测试研究用途，请下载后在24小时内删除，请勿用于商业目的。请支持正版！
-
-# iOS
-
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| iOS编程（第4版） | Christian Keur/Aaron Hillegass | [下载](https://url89.ctfile.com/f/31084289-1357011823-73a7cc?p=8866) |
+| Beginning Machine Learning in iOS | MohitThakkar | [下载](https://url89.ctfile.com/f/31084289-1439926640-22fbfa?p=8866) |
+| NSHipster | MatttThompson | [下载](https://url89.ctfile.com/f/31084289-1373181289-558362?p=8866) |
+| iOS Wow Factor | TimothyWood | [下载](https://url89.ctfile.com/f/31084289-1439954987-62d7b3?p=8866) |
+| iOS编程（第4版） | Christian·Keur | [下载](https://url89.ctfile.com/f/31084289-1357011823-73a7cc?p=8866) |
+| Xcode江湖录 | 李俊阳 / 杜承垚 / 胡雪婷 / 卢力 | [下载](https://url89.ctfile.com/f/31084289-1359238811-af418c?p=8866) |
+| App架构师实践指南 | SkySeraph / 潘旭玲 | [下载](https://url89.ctfile.com/f/31084289-1439861699-3ee107?p=8866) |
+| RxSwift: Reactive Programming with Swift | raywenderlich.comTeam / FlorentPillet / JuniorBontognali | [下载](https://url89.ctfile.com/f/31084289-1374727849-f4cc3b?p=8866) |
+| iOS Drawing | EricaSadun | [下载](https://url89.ctfile.com/f/31084289-1439910944-ad5a07?p=8866) |
+| iOS 14 Programming Fundamentals with Swift | MattNeuburg | [下载](https://url89.ctfile.com/f/31084289-1373154424-27f4b4?p=8866) |

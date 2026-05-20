@@ -1,14 +1,68 @@
-# 版权声明
-
-本站内容均从网上搜集，版权归著作人及版权方所有，如侵犯您的权益，请通知我们，我们将会及时删除！ 下载链接仅供宽带测试研究用途，请下载后在24小时内删除，请勿用于商业目的。请支持正版！
-
-# WEB
-
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
+| 大型网站性能优化实战 | 周涛明 / 张荣华 / 张新兵 | [下载](https://url89.ctfile.com/f/31084289-1357689791-1f0e5c?p=8866) |
+| Java EE框架整合开发入门到实战——Spring+Spring MVC+MyBatis（微课 | 陈恒 / 楼偶俊 / 张立杰 | [下载](https://url89.ctfile.com/f/31084289-1373161051-82c660?p=8866) |
+| 跟老齐学Python：Django实战 | 齐伟 | [下载](https://url89.ctfile.com/f/31084289-1373161507-8779a4?p=8866) |
+| Pro CSS Techniques | JeffCroft / IanLloyd / DanRubin | [下载](https://url89.ctfile.com/f/31084289-1439920334-ace93a?p=8866) |
+| Getting Started with Beautiful Soup | VineethG.Nair | [下载](https://url89.ctfile.com/f/31084289-1439922149-2ecd62?p=8866) |
+| CSS设计指南（第3版） | 史密斯 | [下载](https://url89.ctfile.com/f/31084289-1357005769-ddcb31?p=8866) |
+| PHP和MySQL Web开发（原书第4版） | Luke·Welling | [下载](https://url89.ctfile.com/f/31084289-1357005859-aace71?p=8866) |
+| 精通Nginx(第2版) | DimitriAivaliotis | [下载](https://url89.ctfile.com/f/31084289-1357697444-ee4637?p=8866) |
+| Beginning HTML5 and CSS3 | ChristopherMurphy | [下载](https://url89.ctfile.com/f/31084289-1439942726-223b4e?p=8866) |
+| Spring MVC+MyBatis开发从入门到项目实战 | 朱要光 | [下载](https://url89.ctfile.com/f/31084289-1357697960-cab09b?p=8866) |
+| JavaScript 二十年 | AllenWirfs-Brock / BrendanEich | [下载](https://url89.ctfile.com/f/31084289-1375394749-3f9edb?p=8866) |
+| HTML5秘籍 | Matthew·MacDonald | [下载](https://url89.ctfile.com/f/31084289-1357006540-4fb712?p=8866) |
+| WebRTC Cookbook | AndriiSergiienko | [下载](https://url89.ctfile.com/f/31084289-1373188396-832d6c?p=8866) |
+| JBoss in Action | JavidJamae / PeterJohnson | [下载](https://url89.ctfile.com/f/31084289-1439944472-6d5f91?p=8866) |
+| MongoDB实战 | KyleBanker | [下载](https://url89.ctfile.com/f/31084289-1373188726-760226?p=8866) |
+| Web Scalability for Startup Engineers | ArturEjsmont | [下载](https://url89.ctfile.com/f/31084289-1373188897-740cce?p=8866) |
+| 形式感+：网页视觉设计创意拓展与快速表现 | 晋小彦 | [下载](https://url89.ctfile.com/f/31084289-1375369855-b32a7f?p=8866) |
+| Head First HTML与CSS、XHTML（中文版） | ElisabethFreeman / EricFreeman | [下载](https://url89.ctfile.com/f/31084289-1375387693-bd19a3?p=8866) |
+| 锦绣蓝图 | 沃德科 / 戈夫拉 | [下载](https://url89.ctfile.com/f/31084289-1375369654-3a3310?p=8866) |
+| JSP & Servlet学习笔记 | 林信良 | [下载](https://url89.ctfile.com/f/31084289-1362292466-b45023?p=8866) |
+| 前端Serverless：面向全栈的无服务器架构实战 | 杨凯 | [下载](https://url89.ctfile.com/f/31084289-1358051555-95a07d?p=8866) |
+| 精通CSS（第2版） | Andy·Budd | [下载](https://url89.ctfile.com/f/31084289-1357008904-4f5343?p=8866) |
+| Bootstrap实战（第2版） | 巴斯•乔布森 / 戴维•科克伦 / 伊恩•惠特利 | [下载](https://url89.ctfile.com/f/31084289-1358052062-d8636b?p=8866) |
+| 精通CSS | AndyBudd | [下载](https://url89.ctfile.com/f/31084289-1375366513-f76b4a?p=8866) |
+| DOM Scripting | JeremyKeith | [下载](https://url89.ctfile.com/f/31084289-1439949959-d814c3?p=8866) |
+| 响应式Web设计 | BenFrain | [下载](https://url89.ctfile.com/f/31084289-1375365628-8d795f?p=8866) |
+| Firebug 1.5 | ChandanLuthra / DeepakMittal | [下载](https://url89.ctfile.com/f/31084289-1357772393-5444f5?p=8866) |
+| Web Data Mining | BingLiu | [下载](https://url89.ctfile.com/f/31084289-1439953787-d72644?p=8866) |
+| 图解HTTP | 上野宣 | [下载](https://url89.ctfile.com/f/31084289-1357012594-bc33fd?p=8866) |
+| CSS禅意花园（修订版） | Dave·Shea | [下载](https://url89.ctfile.com/f/31084289-1357014547-fc72e6?p=8866) |
+| 精通Web Analytics 2.0 | AvinashKaushik | [下载](https://url89.ctfile.com/f/31084289-1373125723-26d706?p=8866) |
+| AngularJS权威教程 | AriLerner | [下载](https://url89.ctfile.com/f/31084289-1362366119-488241?p=8866) |
+| 精通JavaScript | JohnResig | [下载](https://url89.ctfile.com/f/31084289-1439860691-72c58d?p=8866) |
+| Web前端学习笔记 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1439861393-720c70?p=8866) |
+| 前端开发核心知识进阶：从夯实基础到突破瓶颈 | 侯策 | [下载](https://url89.ctfile.com/f/31084289-1439861927-50e547?p=8866) |
+| Flask Web开发 | MiguelGrinberg | [下载](https://url89.ctfile.com/f/31084289-1357018324-e7bedb?p=8866) |
+| 精通Web Analytics | 卡希克 | [下载](https://url89.ctfile.com/f/31084289-1439864000-8768c3?p=8866) |
+| 反爬虫AST原理与还原混淆实战 | 李岳阳 / 卓斌 | [下载](https://url89.ctfile.com/f/31084289-1373106958-089863?p=8866) |
+| JavaScript | DouglasCrockford | [下载](https://url89.ctfile.com/f/31084289-1373108203-b5b2bf?p=8866) |
+| JavaScript入门经典 第7版 | 菲尔·巴拉德 | [下载](https://url89.ctfile.com/f/31084289-1359248603-8741a1?p=8866) |
+| HTML5+CSS3+JavaScript从入门到精通（标准版） | 未来科技 | [下载](https://url89.ctfile.com/f/31084289-1359249065-549c99?p=8866) |
+| MongoDB实战 | KyleBanker | [下载](https://url89.ctfile.com/f/31084289-1357021072-264d70?p=8866) |
+| 形式感+ | 晋小彦 | [下载](https://url89.ctfile.com/f/31084289-1357021165-06e7c5?p=8866) |
+| 网络是怎样连接的 | 户根勤 | [下载](https://url89.ctfile.com/f/31084289-1357021582-044470?p=8866) |
+| Java Web开发实例大全（基础卷） | 软件开发技术联盟 | [下载](https://url89.ctfile.com/f/31084289-1439873996-21c757?p=8866) |
+| Laravel框架关键技术解析 | 陈昊 / 陈远征 / 陶业荣 | [下载](https://url89.ctfile.com/f/31084289-1439874428-dd3948?p=8866) |
+| Python云原生：构建应对海量用户数据的高可扩展Web应用 | ManishSethi | [下载](https://url89.ctfile.com/f/31084289-1439874113-202192?p=8866) |
+| JavaScript & jQuery交互式Web前端开发 | 达克特(Duckett / J.) | [下载](https://url89.ctfile.com/f/31084289-1439875235-10a73b?p=8866) |
+| 互联网创业核心技术：构建可伸缩的web应用 | ArturEjsmont | [下载](https://url89.ctfile.com/f/31084289-1439875043-580d5d?p=8866) |
+| Web开发敏捷之道 | SamRuby / DaveThomas / DavidHeinemeHansson | [下载](https://url89.ctfile.com/f/31084289-1439874914-2b4892?p=8866) |
+| Python高效开发实战 | 刘长龙 | [下载](https://url89.ctfile.com/f/31084289-1439875547-ff9f54?p=8866) |
+| 精通CSS与HTML设计模式 | MichaelBowers | [下载](https://url89.ctfile.com/f/31084289-1439875748-4e912c?p=8866) |
+| Head First HTML与CSS（第2版） | ElisabethRobson / EricFreeman | [下载](https://url89.ctfile.com/f/31084289-1439875829-5fdbec?p=8866) |
+| JavaScript框架设计 第二版 | 司徒正美 | [下载](https://url89.ctfile.com/f/31084289-1439876204-2213ad?p=8866) |
+| Tomcat架构解析 | 刘光瑞 | [下载](https://url89.ctfile.com/f/31084289-1439877467-64de51?p=8866) |
+| Modern PHP（中文版） | JoshLockhart | [下载](https://url89.ctfile.com/f/31084289-1439878547-f183f4?p=8866) |
+| You Don't Know JS | KyleSimpson | [下载](https://url89.ctfile.com/f/31084289-1373119465-d4470d?p=8866) |
+| 界面设计模式 | JeniferTidwell | [下载](https://url89.ctfile.com/f/31084289-1439886248-377bcb?p=8866) |
 | Web安全之深度学习实战 | 刘焱 | [下载](https://url89.ctfile.com/f/31084289-1357027117-20aa4a?p=8866) |
-| Flask Web开发 | Miguel Grinberg | [下载](https://url89.ctfile.com/f/31084289-1357018324-e7bedb?p=8866) |
-| CSS禅意花园（修订版） | Dave Shea/Mollv E | [下载](https://url89.ctfile.com/f/31084289-1357014547-fc72e6?p=8866) |
-| 精通CSS（第2版） | Andy Budd/Cameron Moll | [下载](https://url89.ctfile.com/f/31084289-1357008904-4f5343?p=8866) |
-| HTML5秘籍 | Matthew MacDonald | [下载](https://url89.ctfile.com/f/31084289-1357006540-4fb712?p=8866) |
-| CSS设计指南（第3版） | Charles Wyke-Smith | [下载](https://url89.ctfile.com/f/31084289-1357005769-ddcb31?p=8866) |
+| Web应用漏洞侦测与防御 | MikeShema | [下载](https://url89.ctfile.com/f/31084289-1373346961-2a4431?p=8866) |
+| Introduction to Tornado | MichaelDory / AdamParrish / BrendanBerg | [下载](https://url89.ctfile.com/f/31084289-1373353936-ebe5e8?p=8866) |
+| Web应用安全威胁与防治 | 王文君 / 李建蒙 | [下载](https://url89.ctfile.com/f/31084289-1357736207-c1b132?p=8866) |
+| Supercharged JavaScript Graphics | RaffaeleCecco | [下载](https://url89.ctfile.com/f/31084289-1373143147-d49593?p=8866) |
+| Servlet与JSP核心编程 | 霍尔著、赵学良译 | [下载](https://url89.ctfile.com/f/31084289-1357737053-726b54?p=8866) |
+| CherryPy Essentials | SylvainHellegouarch | [下载](https://url89.ctfile.com/f/31084289-1439909621-df195c?p=8866) |
+| Servlet与JSP核心编程 | MartyHall / LarryBrown / YaakovChalkin | [下载](https://url89.ctfile.com/f/31084289-1373157118-cc6f16?p=8866) |

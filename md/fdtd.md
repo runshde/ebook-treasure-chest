@@ -1,0 +1,4 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| 电磁波时域有限差分方法 | 葛德彪 | [下载](https://url89.ctfile.com/f/31084289-1373177092-47ee9e?p=8866) |
+| Electromagnetic Simulation Using the FDTD Method | Sullivan / DennisM. | [下载](https://url89.ctfile.com/f/31084289-1439910416-bed4f0?p=8866) |

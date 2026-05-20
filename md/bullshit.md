@@ -1,0 +1,4 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| 论扯淡 | 哈里·G·法兰克福 | [下载](https://url89.ctfile.com/f/31084289-1439955104-45e216?p=8866) |
+| On Bullshit | HarryG.Frankfurt | [下载](https://url89.ctfile.com/f/31084289-1374957322-0156ef?p=8866) |

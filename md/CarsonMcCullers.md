@@ -1,0 +1,4 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| 金色眼睛的映像 | 卡森·麦卡勒斯 | [下载](https://url89.ctfile.com/f/31084289-1439842760-dc6c50?p=8866) |
+| The Heart Is a Lonely Hunter | CarsonMcCullers | [下载](https://url89.ctfile.com/f/31084289-1439843108-f48dab?p=8866) |

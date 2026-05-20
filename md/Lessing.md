@@ -1,0 +1,4 @@
+| 书名 | 作者 | epub/mobi/azw3 |
+| --- | --- | --- |
+| Laocoon | GottholdEphraimLessing / EllenFrothingham | [下载](https://url89.ctfile.com/f/31084289-1373180521-8ab1a8?p=8866) |
+| 爱米丽雅·伽洛蒂 | 歌特霍尔德·艾夫莱姆·莱辛 | [下载](https://url89.ctfile.com/f/31084289-1361611493-0a5004?p=8866) |
