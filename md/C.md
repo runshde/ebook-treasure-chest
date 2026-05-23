@@ -2,10 +2,10 @@
 | --- | --- | --- |
 | 明解C++ | 柴田望洋 | [下载](https://url89.ctfile.com/f/31084289-1373161798-96b43b?p=8866) |
 | Professional CMake | CraigScott | [下载](https://url89.ctfile.com/f/31084289-1357760198-f71005?p=8866) |
-| C语言解惑 | 阿兰R.富勒 | [下载](https://url89.ctfile.com/f/31084289-1439832494-665467?p=8866) |
+| C语言解惑 | 阿兰R.富勒 | [下载](https://url44.ctfile.com/f/66191444-17569785341038-f849ce?p=7632) |
 | C陷阱与缺陷 | 安德鲁·凯尼格 | [下载](https://url89.ctfile.com/f/31084289-1439832467-683688?p=8866) |
 | 三国英雄记（全六册） | 南门太守 | [下载](https://url89.ctfile.com/f/31084289-1357039126-d0e7c9?p=8866) |
-| 千古传诵老人言 | 刘艳华 | [下载](https://url89.ctfile.com/f/31084289-1439834729-f2131f?p=8866) |
+| 千古传诵老人言 | 刘艳华 | [下载](https://url44.ctfile.com/f/66191444-17569785417699-d9143a?p=7632) |
 | 现代控制理论基础 | 王孝武 | [下载](https://url89.ctfile.com/f/31084289-1362005459-8171cb?p=8866) |
 | 写给大家看的C语言书 | 佩里 | [下载](https://url89.ctfile.com/f/31084289-1357695692-b9ff0e?p=8866) |
 | C Primer Plus | StephenPrata | [下载](https://url89.ctfile.com/f/31084289-1439935460-9e8ff8?p=8866) |
@@ -19,10 +19,10 @@
 | 莎士比亚经典全集：悲剧（1593～1599） | 莎士比亚 | [下载](https://url89.ctfile.com/f/31084289-1358051312-1997d3?p=8866) |
 | 未来机器城 | 燕垒生 | [下载](https://url89.ctfile.com/f/31084289-1356985534-578df5?p=8866) |
 | 精通Linux C编程 | 刘学勇 / 陈建伟 | [下载](https://url89.ctfile.com/f/31084289-1362360533-cb4b12?p=8866) |
-| Linux程序设计 | NeilMatthew / RichardStones | [下载](https://url89.ctfile.com/f/31084289-1358056343-140632?p=8866) |
+| Linux程序设计 | NeilMatthew / RichardStones | [下载](https://url44.ctfile.com/f/66191444-17569781959600-d5d170?p=7632) |
 | C语言完全自学教程 | 明日科技 | [下载](https://url89.ctfile.com/f/31084289-8640686942-df1a4d?p=8866) |
 | C语言编程魔法书 | 陈轶 | [下载](https://url89.ctfile.com/f/31084289-1359238733-277832?p=8866) |
-| 编程精粹 | SteveMaguire | [下载](https://url89.ctfile.com/f/31084289-1375275622-e701ef?p=8866) |
+| 编程精粹 | SteveMaguire | [下载](https://url44.ctfile.com/f/66191444-17569786151577-31ed4e?p=7632) |
 | Linux C与C++ 一线开发实践 | 朱文伟李建英 | [下载](https://url89.ctfile.com/f/31084289-1439861594-7d0508?p=8866) |
 | 嵌入式C编程与Atmel AVR | 未知 | [下载](https://url89.ctfile.com/f/31084289-1373101798-7593da?p=8866) |
 | 微运动 | 牛国卫 | [下载](https://url89.ctfile.com/f/31084289-1359241052-2a9aff?p=8866) |
@@ -38,4 +38,4 @@
 | Linux C从入门到精通 | 明日科技 | [下载](https://url89.ctfile.com/f/31084289-1373140261-2b13a7?p=8866) |
 | 兵戎远祖 古代兵器 | 周建新 | [下载](https://url89.ctfile.com/f/31084289-1356300838-031d34?p=8866) |
 | 跟“龙哥”学C语言编程 | 李志龙 | [下载](https://url89.ctfile.com/f/31084289-1357747922-07f823?p=8866) |
-| 算法（第5部分） | 塞奇威克 | [下载](https://url89.ctfile.com/f/31084289-1357685300-17becc?p=8866) |
+| 算法（第5部分） | 塞奇威克 | [下载](https://url44.ctfile.com/f/66191444-17569787258409-77835f?p=7632) |

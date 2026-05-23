@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Lonely Planet Bali & Lombok | RyanverBerkmoes | [下载](https://url89.ctfile.com/f/31084289-1357772234-38de2c?p=8866) |
+| Lonely Planet Bali & Lombok | RyanverBerkmoes | [下载](https://url44.ctfile.com/f/66191444-17569785948825-0c0c78?p=7632) |

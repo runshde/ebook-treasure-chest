@@ -3,7 +3,7 @@
 | Critique of Pure Reason | ImmanuelKant | [下载](https://url89.ctfile.com/f/31084289-1373162761-e3f0cc?p=8866) |
 | Kant and the Claims of Knowledge | ProfessorPaulGuyer / 保罗·盖耶尔 | [下载](https://url89.ctfile.com/f/31084289-1439922710-25757e?p=8866) |
 | 康德《纯粹理性批判》句读 | 邓晓芒 | [下载](https://url89.ctfile.com/f/31084289-1357043740-d2094f?p=8866) |
-| 费希特和康德论自由、权利和法律 | 古纳尔·贝克 | [下载](https://url89.ctfile.com/f/31084289-1357696340-e9f7b7?p=8866) |
+| 费希特和康德论自由、权利和法律 | 古纳尔·贝克 | [下载](https://url44.ctfile.com/f/66191444-17569785648253-165528?p=7632) |
 | 康德著作全集（第1卷） | 康德 | [下载](https://url89.ctfile.com/f/31084289-1362359438-ec3a0e?p=8866) |
 | 从逻辑到形而上学 | 刘萌 | [下载](https://url89.ctfile.com/f/31084289-1373217817-b5951c?p=8866) |
 | 天高人大 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1373325625-e99dbb?p=8866) |

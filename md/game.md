@@ -1,11 +1,11 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
 | 快乐之道-游戏设计的黄金法则 | 拉夫•科斯特 | [下载](https://url89.ctfile.com/f/31084289-1356297094-e1e08b?p=8866) |
-| Game Theory | StevenTadelis | [下载](https://url89.ctfile.com/f/31084289-1439918189-f283aa?p=8866) |
+| Game Theory | StevenTadelis | [下载](https://url44.ctfile.com/f/66191444-17569785246817-318c96?p=7632) |
 | SDL Game Development | Mitchell / Shaun | [下载](https://url89.ctfile.com/f/31084289-1439918342-c20ca7?p=8866) |
 | Warhammer 40,000 Rulebook | Andy;Priestley / Rick;Haines / PeteChambers | [下载](https://url89.ctfile.com/f/31084289-1357760567-a2c966?p=8866) |
 | Unreal Engine 4从入门到精通 | 何伟 | [下载](https://url89.ctfile.com/f/31084289-1439946371-14ccaa?p=8866) |
-| 3D Math Primer for Graphics and Game Development | FletcherDunn / IanParberry | [下载](https://url89.ctfile.com/f/31084289-1439952626-d4d2ab?p=8866) |
+| 3D Math Primer for Graphics and Game Development | FletcherDunn / IanParberry | [下载](https://url44.ctfile.com/f/66191444-17569785960934-997bfc?p=7632) |
 | The Gamer's Brain | CeliaHodent | [下载](https://url89.ctfile.com/f/31084289-1373096215-5bc279?p=8866) |
 | Unity 3.x Game Development Essentials | WillGoldstone | [下载](https://url89.ctfile.com/f/31084289-1373100544-93150e?p=8866) |
 | 游戏安全——手游安全技术入门 | 腾讯游戏研发部游戏安全中心 | [下载](https://url89.ctfile.com/f/31084289-1439861708-1cc27c?p=8866) |

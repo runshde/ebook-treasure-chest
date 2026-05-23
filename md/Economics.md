@@ -1,16 +1,16 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Game Theory | StevenTadelis | [下载](https://url89.ctfile.com/f/31084289-1439918189-f283aa?p=8866) |
-| The Theory of Industrial Organization | JeanTirole | [下载](https://url89.ctfile.com/f/31084289-1439918336-cc624d?p=8866) |
-| 中级微观经济学：直觉思维与数理方法 | 托马斯·J·内契巴 | [下载](https://url89.ctfile.com/f/31084289-1357757834-6974e9?p=8866) |
-| 经济学（宏观部分） | 达龙·阿西莫格鲁 / 戴维·莱布森 / 约翰·A·李斯特 | [下载](https://url89.ctfile.com/f/31084289-1439918630-6cbb10?p=8866) |
+| Game Theory | StevenTadelis | [下载](https://url44.ctfile.com/f/66191444-17569785246817-318c96?p=7632) |
+| The Theory of Industrial Organization | JeanTirole | [下载](https://url44.ctfile.com/f/66191444-17569785247599-c17298?p=7632) |
+| 中级微观经济学：直觉思维与数理方法 | 托马斯·J·内契巴 | [下载](https://url44.ctfile.com/f/66191444-17569785260910-29c38a?p=7632) |
+| 经济学（宏观部分） | 达龙·阿西莫格鲁 / 戴维·莱布森 / 约翰·A·李斯特 | [下载](https://url44.ctfile.com/f/66191444-17569785261349-2e3c79?p=7632) |
 | The Poor in England, 1700-1900 | King / StevenTomkins / Alannah | [下载](https://url89.ctfile.com/f/31084289-1357758605-75246f?p=8866) |
 | The Worldly Philosophers | RobertL.Heilbroner | [下载](https://url89.ctfile.com/f/31084289-1439918639-96f5f4?p=8866) |
 | 基于实践的微观经济学 | 赫伯特·西蒙 | [下载](https://url89.ctfile.com/f/31084289-1373163478-291b09?p=8866) |
 | 11位知名教授批评张五常 | 黄允成 / 程恩富 | [下载](https://url89.ctfile.com/f/31084289-1357690835-de6ed0?p=8866) |
-| 博弈论与经济模型 | 戴维·M·克雷普斯 | [下载](https://url89.ctfile.com/f/31084289-1361719607-83f1b7?p=8866) |
+| 博弈论与经济模型 | 戴维·M·克雷普斯 | [下载](https://url44.ctfile.com/f/66191444-17569785264174-d41caf?p=7632) |
 | Intermediate Microeconomics (Ninth Edition) | HalR.Varian | [下载](https://url89.ctfile.com/f/31084289-1373166031-71c423?p=8866) |
-| Power and Plenty | RonaldFindlay / KevinH.O'Rourke | [下载](https://url89.ctfile.com/f/31084289-1439920586-926b4d?p=8866) |
+| Power and Plenty | RonaldFindlay / KevinH.O'Rourke | [下载](https://url44.ctfile.com/f/66191444-17569785342233-99fac4?p=7632) |
 | 性越多越安全 | 史蒂文·兰兹伯格 | [下载](https://url89.ctfile.com/f/31084289-1357763453-3cef73?p=8866) |
 | 23位诺贝尔经济学奖得主的瑰丽人生 | 罗格·斯宾塞 / 大卫·麦克弗森 | [下载](https://url89.ctfile.com/f/31084289-1373172181-d09367?p=8866) |
 | Mathematics for Economists | CarlP.Simon / LawrenceBlume | [下载](https://url89.ctfile.com/f/31084289-1373173873-9266ba?p=8866) |
@@ -19,7 +19,7 @@
 | 国外货币金融学说 | 刘絜敖 | [下载](https://url89.ctfile.com/f/31084289-1357765715-383edd?p=8866) |
 | Advanced Macroeconomics | DavidRomer | [下载](https://url89.ctfile.com/f/31084289-1439932361-681eeb?p=8866) |
 | Redefining Global Strategy | PankajGhemawat | [下载](https://url89.ctfile.com/f/31084289-1439836016-bdff17?p=8866) |
-| Freefall | JosephE.Stiglitz | [下载](https://url89.ctfile.com/f/31084289-1373180581-8a8c65?p=8866) |
+| Freefall | JosephE.Stiglitz | [下载](https://url44.ctfile.com/f/66191444-17569785645664-5569db?p=7632) |
 | 新兴古典经济学与超边际分析 | 杨小凯 / 张永生 | [下载](https://url89.ctfile.com/f/31084289-1357696652-a88890?p=8866) |
 | 国富论 | 亚当·斯密 | [下载](https://url89.ctfile.com/f/31084289-1375396570-5860fe?p=8866) |
 | 走出低迷：全球经济冰河期如何拯救私人资产 | 丹尼尔·施泰尔特 | [下载](https://url89.ctfile.com/f/31084289-1375396279-95c28c?p=8866) |
@@ -36,10 +36,10 @@
 | Further Mathematics for Economic Analysis | KnutSydsaeter / PeterHammond / AtleSeierstad | [下载](https://url89.ctfile.com/f/31084289-1373193149-48fe82?p=8866) |
 | Jihad vs. McWorld | BenjaminBarber | [下载](https://url89.ctfile.com/f/31084289-1357772447-32cc78?p=8866) |
 | Nudge | RichardH.Thaler / CassR.Sunstein | [下载](https://url89.ctfile.com/f/31084289-1439957282-dff464?p=8866) |
-| 大緊縮: 人類史上最危險的觀念 | MarkBlyth | [下载](https://url89.ctfile.com/f/31084289-1362360509-a5416d?p=8866) |
+| 大緊縮: 人類史上最危險的觀念 | MarkBlyth | [下载](https://url44.ctfile.com/f/66191444-17569786082656-a9515d?p=7632) |
 | Fundamental Methods of Mathematical Economics | AlphaC.Chiang / KevinWainwright | [下载](https://url89.ctfile.com/f/31084289-1439957681-f4a451?p=8866) |
-| Beauty Pays | DanielS.Hamermesh | [下载](https://url89.ctfile.com/f/31084289-1357774313-5d5ab5?p=8866) |
-| The Lexus and the Olive Tree | ThomasL.Friedman | [下载](https://url89.ctfile.com/f/31084289-1373121295-d45697?p=8866) |
+| Beauty Pays | DanielS.Hamermesh | [下载](https://url44.ctfile.com/f/66191444-17569786084966-141255?p=7632) |
+| The Lexus and the Olive Tree | ThomasL.Friedman | [下载](https://url44.ctfile.com/f/66191444-17569786116945-d3dca6?p=7632) |
 | The World is Flat | ThomasL.Friedman | [下载](https://url89.ctfile.com/f/31084289-1439857541-f7b75f?p=8866) |
 | 经济思想史(第8版) | 斯坦利·L.布鲁 / 兰迪·R.格兰特 | [下载](https://url89.ctfile.com/f/31084289-1439857979-f24125?p=8866) |
 | 神经元经济学 | 拉切奇尼 / 格林切尔（Glimcher / P.） | [下载](https://url89.ctfile.com/f/31084289-1439858309-36687a?p=8866) |
@@ -50,9 +50,9 @@
 | 产业经济学 | 阿尔弗雷德·马歇尔 / 玛丽·佩利·马歇尔 | [下载](https://url89.ctfile.com/f/31084289-1439860505-ca0053?p=8866) |
 | 美联储的制度基础-美国联邦储备体系评论 | 蒋豪 | [下载](https://url89.ctfile.com/f/31084289-1362367193-db0814?p=8866) |
 | The Rise and Decline of Nations | MancurOlson | [下载](https://url89.ctfile.com/f/31084289-1373206180-b5b621?p=8866) |
-| 经济学中的分析方法 | 高山晟 | [下载](https://url89.ctfile.com/f/31084289-1362401318-efc483?p=8866) |
+| 经济学中的分析方法 | 高山晟 | [下载](https://url44.ctfile.com/f/66191444-17569786313372-4d2283?p=7632) |
 | Modern Urban and Regional Economics | McCann / Philip | [下载](https://url89.ctfile.com/f/31084289-1373210863-fbf0e2?p=8866) |
-| Game Theory and Economic Modelling | DavidM.Kreps | [下载](https://url89.ctfile.com/f/31084289-1373216845-8c30fd?p=8866) |
+| Game Theory and Economic Modelling | DavidM.Kreps | [下载](https://url44.ctfile.com/f/66191444-17569786341508-aba29d?p=7632) |
 | 喧嚣的九十年代 | 约瑟夫.斯蒂格利茨 | [下载](https://url89.ctfile.com/f/31084289-1362405281-12ed2f?p=8866) |
 | 计量经济学导论 | 杰弗里·M·伍德里奇 | [下载](https://url89.ctfile.com/f/31084289-1373229451-f6b615?p=8866) |
 | 论资本用于土地 | 爱德华·威斯特 | [下载](https://url89.ctfile.com/f/31084289-1373115667-c0787f?p=8866) |
@@ -61,11 +61,11 @@
 | 加尔布雷思文集 | 约翰·肯尼斯·加尔布雷思 | [下载](https://url89.ctfile.com/f/31084289-1373120200-99f7ae?p=8866) |
 | Social and Economic Networks | MatthewO.Jackson | [下载](https://url89.ctfile.com/f/31084289-1374950203-f28691?p=8866) |
 | Debt | DavidGraeber | [下载](https://url89.ctfile.com/f/31084289-1374947098-e77ff7?p=8866) |
-| 宏观经济学 | N·格里高利·曼昆 | [下载](https://url89.ctfile.com/f/31084289-1373142778-07e721?p=8866) |
+| 宏观经济学 | N·格里高利·曼昆 | [下载](https://url44.ctfile.com/f/66191444-17569786808357-8b7872?p=7632) |
 | Theory of Decision under Uncertainty | ItzhakGilboa | [下载](https://url89.ctfile.com/f/31084289-1373143678-9ac075?p=8866) |
 | 择优分配原理 | 茅于轼 | [下载](https://url89.ctfile.com/f/31084289-1373145787-204d35?p=8866) |
-| 比较制度分析 | 青木昌彦 | [下载](https://url89.ctfile.com/f/31084289-1361611952-0c896d?p=8866) |
+| 比较制度分析 | 青木昌彦 | [下载](https://url44.ctfile.com/f/66191444-17569787047182-f75925?p=7632) |
 | The House of Rothschild | NiallFerguson | [下载](https://url89.ctfile.com/f/31084289-1439909987-637c9c?p=8866) |
-| 经济理论的回顾 | 马克•布劳格 | [下载](https://url89.ctfile.com/f/31084289-1357744577-a4262b?p=8866) |
+| 经济理论的回顾 | 马克•布劳格 | [下载](https://url44.ctfile.com/f/66191444-17569787062682-c1fa5d?p=7632) |
 | 货币的野心 | 陈文正 | [下载](https://url89.ctfile.com/f/31084289-1361613503-b5f739?p=8866) |
-| A Guide for the Young Economist (2/e) | WilliamThomson | [下载](https://url89.ctfile.com/f/31084289-1373154919-7f6e47?p=8866) |
+| A Guide for the Young Economist (2/e) | WilliamThomson | [下载](https://url44.ctfile.com/f/66191444-17569787233174-19ae6a?p=7632) |

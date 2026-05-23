@@ -5,4 +5,4 @@
 | An Introduction to Second Language Acquisition Research | DianeLarsen-Freeman / MichaelH.Long | [下载](https://url89.ctfile.com/f/31084289-1373334727-3a1f8d?p=8866) |
 | How Languages Are Learned | PatsyM.Lightbown / NinaSpada | [下载](https://url89.ctfile.com/f/31084289-1373136058-7468ba?p=8866) |
 | 第二语言习得 | RodEllis | [下载](https://url89.ctfile.com/f/31084289-1373141395-fec2c8?p=8866) |
-| 第二语言习得 | 盖苏珊 / 塞林克 | [下载](https://url89.ctfile.com/f/31084289-1357745897-3cbfe2?p=8866) |
+| 第二语言习得 | 盖苏珊 / 塞林克 | [下载](https://url44.ctfile.com/f/66191444-17569785154537-3b5e01?p=7632) |

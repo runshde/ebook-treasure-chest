@@ -9,7 +9,7 @@
 | Plasmonics | StefanAlexanderMaier | [下载](https://url89.ctfile.com/f/31084289-1373180995-a0819b?p=8866) |
 | Global Business Today | CharlesW.L.Hill | [下载](https://url89.ctfile.com/f/31084289-1373181397-f985a7?p=8866) |
 | 动物免疫学 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1439938676-a94cbf?p=8866) |
-| Antenna Theory | ConstantineA.Balanis | [下载](https://url89.ctfile.com/f/31084289-1439942600-8c585a?p=8866) |
+| Antenna Theory | ConstantineA.Balanis | [下载](https://url44.ctfile.com/f/66191444-17569785710564-cf8d75?p=7632) |
 | Introduction to the Practice of Statistics | DavidS.Moore / BruceCraig / GeorgeP.McCabe | [下载](https://url89.ctfile.com/f/31084289-1357773353-dc3a69?p=8866) |
 | 高等原子分子物理学 | 徐克尊 | [下载](https://url89.ctfile.com/f/31084289-1362360305-bd683e?p=8866) |
 | Python科学计算和数据科学应用(第2版)  使用NumPy、SciPy和matplotlib | 罗伯特·约翰逊 | [下载](https://url89.ctfile.com/f/31084289-1373100562-7e88f6?p=8866) |
@@ -23,8 +23,8 @@
 | Agroecology | Gliessman / StephenR. | [下载](https://url89.ctfile.com/f/31084289-1357675436-927f84?p=8866) |
 | American Popular Music | LarryStarr / ChristopherWaterman | [下载](https://url89.ctfile.com/f/31084289-1357677227-7eff96?p=8866) |
 | The Finite Element Method | OlekCZienkiewicz / RobertLTaylor / J.Z.Zhu | [下载](https://url89.ctfile.com/f/31084289-1373338771-c8b190?p=8866) |
-| Fakhruddin Iraqi | WilliamChittick | [下载](https://url89.ctfile.com/f/31084289-1357679846-0022a3?p=8866) |
+| Fakhruddin Iraqi | WilliamChittick | [下载](https://url44.ctfile.com/f/66191444-17569786786935-fe753b?p=7632) |
 | Business Analytics | SChristianAlbright / WayneLWinstonPh.D. | [下载](https://url89.ctfile.com/f/31084289-1357679879-03bd8d?p=8866) |
-| Calculus | JamesStewart | [下载](https://url89.ctfile.com/f/31084289-1439911172-c6bf92?p=8866) |
-| A Source Book in Chinese Philosophy | Wing-TsitChan | [下载](https://url89.ctfile.com/f/31084289-1373153458-f4e2e8?p=8866) |
+| Calculus | JamesStewart | [下载](https://url44.ctfile.com/f/66191444-17569787064209-df8874?p=7632) |
+| A Source Book in Chinese Philosophy | Wing-TsitChan | [下载](https://url44.ctfile.com/f/66191444-17569787165282-ed1235?p=7632) |
 | The Abilene Paradox and Other Meditations on Management | JerryB.Harvey | [下载](https://url89.ctfile.com/f/31084289-1357749461-0c68da?p=8866) |

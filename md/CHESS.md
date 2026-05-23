@@ -1,7 +1,7 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
 | 遊戲化實戰全書 | Yu-kaiChou | [下载](https://url89.ctfile.com/f/31084289-1439841233-e98195?p=8866) |
-| My System | AronNimzowitsch | [下载](https://url89.ctfile.com/f/31084289-1439947337-704d89?p=8866) |
+| My System | AronNimzowitsch | [下载](https://url44.ctfile.com/f/66191444-17569785916196-166ce1?p=7632) |
 | 棋坛怪杰60局 | 鲍比·菲舍尔 | [下载](https://url89.ctfile.com/f/31084289-1439855108-b45339?p=8866) |
 | 国际象棋中级教程 | 林峰 | [下载](https://url89.ctfile.com/f/31084289-1439867417-763a2f?p=8866) |
 | 100 Endgame Patterns You Must Know | JesusdelaVilla | [下载](https://url89.ctfile.com/f/31084289-1361604650-e2604a?p=8866) |

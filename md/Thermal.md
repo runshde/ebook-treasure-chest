@@ -1,4 +1,4 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Thermal Design | HoSungLee | [下载](https://url89.ctfile.com/f/31084289-1439918147-5a6ed7?p=8866) |
-| 电池热管理 | 饶中浩 / 张国庆 | [下载](https://url89.ctfile.com/f/31084289-1356297358-a48ffb?p=8866) |
+| Thermal Design | HoSungLee | [下载](https://url44.ctfile.com/f/66191444-17569785242253-7ef4e1?p=7632) |
+| 电池热管理 | 饶中浩 / 张国庆 | [下载](https://url44.ctfile.com/f/66191444-17569787299567-6ff5e5?p=7632) |

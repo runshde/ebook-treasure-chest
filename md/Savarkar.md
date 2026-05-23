@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Hindutva | VinayakDamodarSavarkar | [下载](https://url89.ctfile.com/f/31084289-1362113378-c8a877?p=8866) |
+| Hindutva | VinayakDamodarSavarkar | [下载](https://url44.ctfile.com/f/66191444-17569785710103-a3295f?p=7632) |

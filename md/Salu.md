@@ -2,8 +2,8 @@
 | --- | --- | --- |
 | 虚惊一场 | 高泰吉亚尼 / 特朗香 | [下载](https://url89.ctfile.com/f/31084289-1356295114-33fa1b?p=8866) |
 | 爪哇岛历险记 | 威利·范德斯汀 | [下载](https://url89.ctfile.com/f/31084289-1362223385-8cb7c1?p=8866) |
-| Lonely Planet孤独星球 | 兰普雷尔 | [下载](https://url89.ctfile.com/f/31084289-1375362184-c1b800?p=8866) |
-| Lonely Planet孤独星球 | 兰普雷尔 | [下载](https://url89.ctfile.com/f/31084289-1375360708-fec3d9?p=8866) |
+| Lonely Planet孤独星球 | 兰普雷尔 | [下载](https://url44.ctfile.com/f/66191444-17569786083393-e6d4e4?p=7632) |
+| Lonely Planet孤独星球 | 兰普雷尔 | [下载](https://url44.ctfile.com/f/66191444-17569786095641-67bafd?p=7632) |
 | Lonely Planet孤独星球 | 兰普雷尔 | [下载](https://url89.ctfile.com/f/31084289-1375360561-a69fe2?p=8866) |
 | 长尾豹马修4：刺痒山的花粉 | 安德烈·弗朗坎 / 简 / 巴特 | [下载](https://url89.ctfile.com/f/31084289-1362400934-dd7398?p=8866) |
 | 蛋壳里出来的奶奶 | 伊娃·普洛查兹科娃 / 玛丽昂·格德尔特 / 伊娃·普罗哈兹科娃 | [下载](https://url89.ctfile.com/f/31084289-1361607503-9c981e?p=8866) |

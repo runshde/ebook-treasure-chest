@@ -1,14 +1,14 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
 | 数据、模型与决策 | 蒋绍忠 | [下载](https://url89.ctfile.com/f/31084289-1439918159-101689?p=8866) |
-| 从Excel到Power BI | 马世权 | [下载](https://url89.ctfile.com/f/31084289-1356295723-547242?p=8866) |
+| 从Excel到Power BI | 马世权 | [下载](https://url44.ctfile.com/f/66191444-17569785262443-723512?p=7632) |
 | Excel最强教科书【完全版】 | 藤井直弥 / 大山啓介 | [下载](https://url89.ctfile.com/f/31084289-1357691120-532dc4?p=8866) |
-| Power Query：基于Excel 和 Power BI的M函数详解及应用 | 李小涛 | [下载](https://url89.ctfile.com/f/31084289-1356294646-835e6a?p=8866) |
+| Power Query：基于Excel 和 Power BI的M函数详解及应用 | 李小涛 | [下载](https://url44.ctfile.com/f/66191444-17569785341777-e6907e?p=7632) |
 | 别怕，Excel VBA其实很简单 | Excel之家 | [下载](https://url89.ctfile.com/f/31084289-1357005424-36e2bc?p=8866) |
 | 演绎生动：Excel图表 | 杜龙 | [下载](https://url89.ctfile.com/f/31084289-1375395052-1e9237?p=8866) |
 | 从数据到Excel自动化报表 | 黄海剑 | [下载](https://url89.ctfile.com/f/31084289-1375392871-05d341?p=8866) |
 | 深入浅出Excel VBA | 杨洋 | [下载](https://url89.ctfile.com/f/31084289-1439946263-5d576c?p=8866) |
-| 你早该这么玩Excel | 伍昊 | [下载](https://url89.ctfile.com/f/31084289-1375369429-79544f?p=8866) |
+| 你早该这么玩Excel | 伍昊 | [下载](https://url44.ctfile.com/f/66191444-17569785880140-7adc07?p=7632) |
 | 数据呈现之美 | 凌祯 | [下载](https://url89.ctfile.com/f/31084289-1356988333-c13fbe?p=8866) |
 | 从零开始学Excel VBA | 魏汪洋 | [下载](https://url89.ctfile.com/f/31084289-1358055815-25f353?p=8866) |
 | 为什么精英都是Excel控 | 熊野整 | [下载](https://url89.ctfile.com/f/31084289-1357015744-ec5cf7?p=8866) |

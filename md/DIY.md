@@ -7,7 +7,7 @@
 | 盆景小喷泉DIY | 巴利斯・玛尼恩 / 张勤文 | [下载](https://url89.ctfile.com/f/31084289-1357697165-c4dede?p=8866) |
 | Steampunk Softies | Skeate / Sarah;Tedman / Nicola; | [下载](https://url89.ctfile.com/f/31084289-1357768382-e31d5b?p=8866) |
 | Goldwork | Everett / Hazel | [下载](https://url89.ctfile.com/f/31084289-1439843663-2cc6d7?p=8866) |
-| 我的插花日记 | 秦莎 | [下载](https://url89.ctfile.com/f/31084289-1375365808-0c45a6?p=8866) |
+| 我的插花日记 | 秦莎 | [下载](https://url44.ctfile.com/f/66191444-17569785954032-0adb2f?p=7632) |
 | 从零开始自己动手写区块链 | 裴尧尧 | [下载](https://url89.ctfile.com/f/31084289-1357660817-9dfe4c?p=8866) |
 | 玩转手工100招 | 主妇之友社 | [下载](https://url89.ctfile.com/f/31084289-1373108332-d563bf?p=8866) |
 | 皮革工藝Vol.1 | 高桥矩彦 | [下载](https://url89.ctfile.com/f/31084289-1359246914-934796?p=8866) |

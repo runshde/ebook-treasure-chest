@@ -43,7 +43,7 @@
 | Linux命令编辑器与Shell编程 | 王刚 | [下载](https://url89.ctfile.com/f/31084289-1373122192-e13122?p=8866) |
 | 深入浅出 Hyperscan：高性能正则表达式算法原理与设计 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1358055809-f5c636?p=8866) |
 | Arch Linux Handbook | DustyPhillips | [下载](https://url89.ctfile.com/f/31084289-1373018776-15d8cd?p=8866) |
-| Linux程序设计 | NeilMatthew / RichardStones | [下载](https://url89.ctfile.com/f/31084289-1358056343-140632?p=8866) |
+| Linux程序设计 | NeilMatthew / RichardStones | [下载](https://url44.ctfile.com/f/66191444-17569781959600-d5d170?p=7632) |
 | Learning Shell Scripting with Zsh | GastónFestari | [下载](https://url89.ctfile.com/f/31084289-1373124820-dce6fe?p=8866) |
 | Slackware Linux Essentials 2nd Edition | AlanHicks / ChrisLomens / DavidCantrell | [下载](https://url89.ctfile.com/f/31084289-1373093530-6a21a1?p=8866) |
 | Hacking Vim | KimSchulz | [下载](https://url89.ctfile.com/f/31084289-1373201839-f465d0?p=8866) |
@@ -75,7 +75,7 @@
 | 移动开发丛书·Android Studio开发实战：从零基础到App上线(第2版) | 欧阳燊 | [下载](https://url89.ctfile.com/f/31084289-1374950563-0f6e8e?p=8866) |
 | Ubuntu Linux从入门到精通 | 陶松 / 刘雍 / 韩海玲 | [下载](https://url89.ctfile.com/f/31084289-1373130187-9fb33d?p=8866) |
 | 深入理解Android内核设计思想 | 林学森 | [下载](https://url89.ctfile.com/f/31084289-1374950113-8624ef?p=8866) |
-| Linux Shell脚本攻略（第3版） | ClifFlynt / ShantanuTushar / SarathLakshman | [下载](https://url89.ctfile.com/f/31084289-1357679003-2e49c4?p=8866) |
+| Linux Shell脚本攻略（第3版） | ClifFlynt / ShantanuTushar / SarathLakshman | [下载](https://url44.ctfile.com/f/66191444-17569781964235-b39485?p=7632) |
 | UNIX网络编程 | 史蒂文斯 / 芬纳 / 鲁道夫 | [下载](https://url89.ctfile.com/f/31084289-1357679483-b2de89?p=8866) |
 | Linux C从入门到精通 | 明日科技 | [下载](https://url89.ctfile.com/f/31084289-1373140261-2b13a7?p=8866) |
 | 汇编语言 | JeffDuntemann | [下载](https://url89.ctfile.com/f/31084289-1361610482-f9df6c?p=8866) |
@@ -89,7 +89,7 @@
 | SELinux by Example | Mayer / Frank/Macmillan / Karl/Caplan | [下载](https://url89.ctfile.com/f/31084289-1439915786-85cc1e?p=8866) |
 | Sams' Teach Yourself Linux in 24 Hours | BillBall / StephenSmoogen / StephenSmoogen | [下载](https://url89.ctfile.com/f/31084289-1357746338-375619?p=8866) |
 | SSH权威指南 | DanielJ.BarrettRichardE.Silverman | [下载](https://url89.ctfile.com/f/31084289-1356299452-e01350?p=8866) |
-| 深度探索嵌入式操作系统 | 彭东 | [下载](https://url89.ctfile.com/f/31084289-1357685024-0f2f67?p=8866) |
+| 深度探索嵌入式操作系统 | 彭东 | [下载](https://url44.ctfile.com/f/66191444-17569785157705-0f8048?p=7632) |
 | 鸟哥的Linux私房菜 | 鸟哥 | [下载](https://url89.ctfile.com/f/31084289-1374724672-80bb85?p=8866) |
 | HARDENING Linux中文版/网络与信息安全技术经典丛书 | 托普斯特 | [下载](https://url89.ctfile.com/f/31084289-1357748549-bbdabc?p=8866) |
 | Regular Expression Pocket Reference | TonyStubblebine | [下载](https://url89.ctfile.com/f/31084289-1439917421-2d7e86?p=8866) |

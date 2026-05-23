@@ -10,4 +10,4 @@
 | Essays Critical and Clinical | GillesDeleuze | [下载](https://url89.ctfile.com/f/31084289-1357679207-89e812?p=8866) |
 | Deleuze, Japanese Cinema, and the Atom Bomb | DavidDeamer | [下载](https://url89.ctfile.com/f/31084289-1373140975-81ef69?p=8866) |
 | 差異與重複 | 德勒茲GillesDeleuze | [下载](https://url89.ctfile.com/f/31084289-1356301702-34af16?p=8866) |
-| 斯宾诺莎的实践哲学 | 吉尔·德勒兹 | [下载](https://url89.ctfile.com/f/31084289-1373158330-ebc126?p=8866) |
+| 斯宾诺莎的实践哲学 | 吉尔·德勒兹 | [下载](https://url44.ctfile.com/f/66191444-17569787283576-ac1a58?p=7632) |

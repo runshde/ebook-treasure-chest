@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| And the Band Played On | RandyShilts | [下载](https://url89.ctfile.com/f/31084289-1357772114-d59d1c?p=8866) |
+| And the Band Played On | RandyShilts | [下载](https://url44.ctfile.com/f/66191444-17569785946272-06636e?p=7632) |

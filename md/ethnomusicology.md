@@ -1,6 +1,6 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Echoes of history: Naxi music in modern China | HelenRees | [下载](https://url89.ctfile.com/f/31084289-1357750415-656f74?p=8866) |
+| Echoes of history: Naxi music in modern China | HelenRees | [下载](https://url44.ctfile.com/f/66191444-17569785241031-ac1eaa?p=7632) |
 | Pop When the World Falls Apart | Weisbard / Eric | [下载](https://url89.ctfile.com/f/31084289-1357757312-c8a567?p=8866) |
 | 杨荫浏全集-(全13卷) | 杨荫浏 | [下载](https://url89.ctfile.com/f/31084289-1357690706-4458f1?p=8866) |
 | Sound, Space, and the City | Peterson / Marina | [下载](https://url89.ctfile.com/f/31084289-1357760657-b7e34f?p=8866) |

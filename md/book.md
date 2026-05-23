@@ -6,7 +6,7 @@
 | Practical Color Management | EddieTapp / RickLucas | [下载](https://url89.ctfile.com/f/31084289-1373188438-a3feba?p=8866) |
 | 知识图谱理论在教育与心理研究中的应用 | 郭文斌 | [下载](https://url89.ctfile.com/f/31084289-1375369234-711738?p=8866) |
 | Embedded Networking with CAN and CANopen | OlafPfeiffer / AndrewAyre / ChristianKeydel | [下载](https://url89.ctfile.com/f/31084289-1373124382-058bd4?p=8866) |
-| The Leftovers | TomPerrotta | [下载](https://url89.ctfile.com/f/31084289-1373206063-580c17?p=8866) |
+| The Leftovers | TomPerrotta | [下载](https://url44.ctfile.com/f/66191444-17569786311390-e9a5da?p=7632) |
 | The Wonderful Story of Henry Sugar and Six More | RoaldDahl | [下载](https://url89.ctfile.com/f/31084289-1374960685-db92c4?p=8866) |
 | The Yahoo! Style Guide | Barr / Chris | [下载](https://url89.ctfile.com/f/31084289-1374959293-1110f3?p=8866) |
 | Fuddles | Vischer / Frans;Vischer / Frans; | [下载](https://url89.ctfile.com/f/31084289-1357675286-c088cb?p=8866) |

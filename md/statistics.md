@@ -1,9 +1,9 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| 统计学习基础 | RobertTibshirani / TrevorHastie / JeromeFriedman | [下载](https://url89.ctfile.com/f/31084289-1439920634-69736c?p=8866) |
+| 统计学习基础 | RobertTibshirani / TrevorHastie / JeromeFriedman | [下载](https://url44.ctfile.com/f/66191444-17569785342315-673e04?p=7632) |
 | Introduction to Meta-Analysis | MichaelBorenstein / LarryV.Hedges / JulianP.T.Higgins | [下载](https://url89.ctfile.com/f/31084289-1439926058-4a502a?p=8866) |
 | 数理统计与数据分析 | JohnA.Rice | [下载](https://url89.ctfile.com/f/31084289-1357765310-30ddbe?p=8866) |
-| Topics in Random Matrix Theory | TerrenceTao | [下载](https://url89.ctfile.com/f/31084289-1439929979-d4cc07?p=8866) |
+| Topics in Random Matrix Theory | TerrenceTao | [下载](https://url44.ctfile.com/f/66191444-17569785549187-8a712e?p=7632) |
 | A First Course in Bayesian Statistical Methods | PeterD.Hoff | [下载](https://url89.ctfile.com/f/31084289-1373185114-e45d7d?p=8866) |
 | 数字信号处理 | 胡广书 | [下载](https://url89.ctfile.com/f/31084289-1439942480-4ef2e4?p=8866) |
 | Discovering Statistics Using SPSS | AndyField | [下载](https://url89.ctfile.com/f/31084289-1373185921-3ee9c7?p=8866) |
@@ -25,18 +25,18 @@
 | 高等数理统计学 | 陈希孺 | [下载](https://url89.ctfile.com/f/31084289-1361606006-92f69c?p=8866) |
 | 统计学 | 凯勒[GeraldKelle | [下载](https://url89.ctfile.com/f/31084289-1356305971-c320f8?p=8866) |
 | Seamless R and C++ Integration with Rcpp | DirkEddelbuettel | [下载](https://url89.ctfile.com/f/31084289-1373332765-41c929?p=8866) |
-| Graphical Models, Exponential Families, and Variational Inference | MartinJWainwright / MichaelIJordan | [下载](https://url89.ctfile.com/f/31084289-1357677152-ded3d7?p=8866) |
+| Graphical Models, Exponential Families, and Variational Inference | MartinJWainwright / MichaelIJordan | [下载](https://url44.ctfile.com/f/66191444-17569786598347-d0202a?p=7632) |
 | 新闻传播统计学基础 | 曾秀芹 / 张楠 | [下载](https://url89.ctfile.com/f/31084289-1373348236-954904?p=8866) |
 | Discovering Statistics Using SPSS | AndyField | [下载](https://url89.ctfile.com/f/31084289-1357679888-817b51?p=8866) |
 | 数理统计学教程 | 陈希孺 | [下载](https://url89.ctfile.com/f/31084289-1373354335-785f39?p=8866) |
 | 例解回归分析 | 查特基 | [下载](https://url89.ctfile.com/f/31084289-1357680581-ed7a41?p=8866) |
 | The Elements of Financial Econometrics | JianqingFan / QiweiYao | [下载](https://url89.ctfile.com/f/31084289-1361610968-f0557a?p=8866) |
-| Vital Statistics | WilliamH.Sandholm / BrettA.Saraniti | [下载](https://url89.ctfile.com/f/31084289-1357744502-774b71?p=8866) |
+| Vital Statistics | WilliamH.Sandholm / BrettA.Saraniti | [下载](https://url44.ctfile.com/f/66191444-17569787062122-da9c55?p=7632) |
 | 数理统计学导论（原书第7版） | 霍格 | [下载](https://url89.ctfile.com/f/31084289-1373151325-89e807?p=8866) |
 | R in Action | RobertKabacoff | [下载](https://url89.ctfile.com/f/31084289-1373152291-610eca?p=8866) |
 | 数理统计 | 何书元 | [下载](https://url89.ctfile.com/f/31084289-1357683185-898b4d?p=8866) |
 | New Introduction to Multiple Time Series Analysis | HelmutLütkepohl | [下载](https://url89.ctfile.com/f/31084289-1439912474-71f86e?p=8866) |
 | Applied Longitudinal Analysis | Fitzmaurice;Fitzmaurice / GarrettM.;Laird / NanM. | [下载](https://url89.ctfile.com/f/31084289-1439914574-984839?p=8866) |
-| An Introduction to Statistics with Python | ThomasHaslwanter | [下载](https://url89.ctfile.com/f/31084289-1439915846-7dec37?p=8866) |
+| An Introduction to Statistics with Python | ThomasHaslwanter | [下载](https://url44.ctfile.com/f/66191444-17569787175652-f50e60?p=7632) |
 | A First Course in Probability | SheldonRoss | [下载](https://url89.ctfile.com/f/31084289-1439916200-604fa5?p=8866) |
 | Introduction to Mediation, Moderation, and Conditional Process Analysis, Second Edition | AndrewF.Hayes | [下载](https://url89.ctfile.com/f/31084289-1439916257-808116?p=8866) |

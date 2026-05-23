@@ -9,7 +9,7 @@
 | Graceling | KristinCashore | [下载](https://url89.ctfile.com/f/31084289-1357774106-b65da0?p=8866) |
 | 夺取群星 | 布兰登·桑德森 | [下载](https://url89.ctfile.com/f/31084289-1362366104-ddc635?p=8866) |
 | 你会在那里找到我 | 娜塔莎•弗兰德 | [下载](https://url89.ctfile.com/f/31084289-1359242729-6754b5?p=8866) |
-| House of Earth and Blood | SarahJ.Maas | [下载](https://url89.ctfile.com/f/31084289-1374961045-025d67?p=8866) |
+| House of Earth and Blood | SarahJ.Maas | [下载](https://url44.ctfile.com/f/66191444-17569786316605-a41140?p=7632) |
 | All the Bright Places | JenniferNiven | [下载](https://url89.ctfile.com/f/31084289-1374955714-bc5335?p=8866) |
 | Aristotle and Dante Discover the Secrets of the Universe | Saenz / BenjaminAlire | [下载](https://url89.ctfile.com/f/31084289-1374726601-e870e4?p=8866) |
 | Fangirl | RainbowRowell | [下载](https://url89.ctfile.com/f/31084289-1374726265-eb1528?p=8866) |

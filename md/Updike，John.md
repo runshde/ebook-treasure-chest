@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Terrorist | JohnUpdike | [下载](https://url89.ctfile.com/f/31084289-1357768301-f6e167?p=8866) |
+| Terrorist | JohnUpdike | [下载](https://url44.ctfile.com/f/66191444-17569785727794-40cfbc?p=7632) |

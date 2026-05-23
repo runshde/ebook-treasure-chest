@@ -15,7 +15,7 @@
 | 量化交易：算法、分析、数据、模型和优化 | XinGuo / TzeLeungLai / HowardShek | [下载](https://url89.ctfile.com/f/31084289-1439860508-9c76e4?p=8866) |
 | Quantitative Momentum | WesleyR.Gray / JackR.Vogel | [下载](https://url89.ctfile.com/f/31084289-1373206630-2c0698?p=8866) |
 | Paul Wilmott on Quantitative Finance 3 Volume Set | PaulWilmott | [下载](https://url89.ctfile.com/f/31084289-1357669091-4a5e40?p=8866) |
-| Paul Wilmott Introduces Quantitative Finance | PaulWilmott | [下载](https://url89.ctfile.com/f/31084289-1373129890-71baf1?p=8866) |
+| Paul Wilmott Introduces Quantitative Finance | PaulWilmott | [下载](https://url44.ctfile.com/f/66191444-17569786585233-a7c270?p=7632) |
 | Data Source Handbook | PeteWarden | [下载](https://url89.ctfile.com/f/31084289-1373132545-21f95b?p=8866) |
 | Finding Alphas | IgorTulchinsky | [下载](https://url89.ctfile.com/f/31084289-1439909729-e09c31?p=8866) |
 | 数理统计 | 何书元 | [下载](https://url89.ctfile.com/f/31084289-1357683185-898b4d?p=8866) |

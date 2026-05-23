@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Octaedro | JulioCortázar | [下载](https://url89.ctfile.com/f/31084289-1361607014-f966f3?p=8866) |
+| Octaedro | JulioCortázar | [下载](https://url44.ctfile.com/f/66191444-17569786585111-bc7afa?p=7632) |

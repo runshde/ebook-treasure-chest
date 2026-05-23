@@ -4,8 +4,8 @@
 | OpenJDK cookbook | AlexKasko / StanislavKobylyanskiy / AlexeyMironchenko | [下载](https://url89.ctfile.com/f/31084289-1373200936-552188?p=8866) |
 | 虚拟机设计与实现 | 李晓峰 | [下载](https://url89.ctfile.com/f/31084289-1439860724-a9b808?p=8866) |
 | 深入解析Java虚拟机HotSpot | 杨易 | [下载](https://url89.ctfile.com/f/31084289-1439860898-c7509b?p=8866) |
-| 解析Java虚拟机开发 | 张善香 | [下载](https://url89.ctfile.com/f/31084289-1439861732-508b93?p=8866) |
-| JVM G1源码分析和调优 | 彭成寒 | [下载](https://url89.ctfile.com/f/31084289-1357666025-f3cc11?p=8866) |
+| 解析Java虚拟机开发 | 张善香 | [下载](https://url44.ctfile.com/f/66191444-17569786307155-25e43c?p=7632) |
+| JVM G1源码分析和调优 | 彭成寒 | [下载](https://url44.ctfile.com/f/66191444-17569786310553-37440a?p=7632) |
 | Java性能优化权威指南 | CharlieHunt / BinuJohn | [下载](https://url89.ctfile.com/f/31084289-1373109448-86a042?p=8866) |
 | 深入理解JVM字节码 | 张亚 | [下载](https://url89.ctfile.com/f/31084289-1373329651-6303cb?p=8866) |
 | Akka实战：快速构建高可用分布式应用 | 杜云飞 | [下载](https://url89.ctfile.com/f/31084289-1373332498-9b59cb?p=8866) |

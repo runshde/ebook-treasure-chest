@@ -6,4 +6,4 @@
 | HTML5 Canvas | SteveFulton / JeffFulton | [下载](https://url89.ctfile.com/f/31084289-1375369342-459878?p=8866) |
 | 响应式Web设计 | BenFrain | [下载](https://url89.ctfile.com/f/31084289-1375365628-8d795f?p=8866) |
 | HTML5+CSS3+JavaScript从入门到精通（标准版） | 未来科技 | [下载](https://url89.ctfile.com/f/31084289-1359249065-549c99?p=8866) |
-| Supercharged JavaScript Graphics | RaffaeleCecco | [下载](https://url89.ctfile.com/f/31084289-1373143147-d49593?p=8866) |
+| Supercharged JavaScript Graphics | RaffaeleCecco | [下载](https://url44.ctfile.com/f/66191444-17569786823167-919ed4?p=7632) |

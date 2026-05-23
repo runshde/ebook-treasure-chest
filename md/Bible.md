@@ -1,4 +1,4 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Die Bibel | DeutscheBibelgesellschaft | [下载](https://url89.ctfile.com/f/31084289-1373189917-0ad347?p=8866) |
-| When God Spoke Greek | TimothyMichaelLaw | [下载](https://url89.ctfile.com/f/31084289-1373106139-6de7b2?p=8866) |
+| Die Bibel | DeutscheBibelgesellschaft | [下载](https://url44.ctfile.com/f/66191444-17569785891862-4755ad?p=7632) |
+| When God Spoke Greek | TimothyMichaelLaw | [下载](https://url44.ctfile.com/f/66191444-17569786313455-c44292?p=7632) |

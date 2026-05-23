@@ -45,9 +45,9 @@
 | 太阳能建筑 | 克里斯汀·史蒂西 | [下载](https://url89.ctfile.com/f/31084289-1439901194-18a7db?p=8866) |
 | 建筑学教程：设计原理 | 赫曼·赫茨伯格 | [下载](https://url89.ctfile.com/f/31084289-1439901824-ccc503?p=8866) |
 | 词语与建筑物 | 阿德里安·福蒂 | [下载](https://url89.ctfile.com/f/31084289-1439902946-8d1b7f?p=8866) |
-| 如何理解建筑 | 维托尔德·雷布琴斯基 | [下载](https://url89.ctfile.com/f/31084289-1439903396-bf517a?p=8866) |
+| 如何理解建筑 | 维托尔德·雷布琴斯基 | [下载](https://url44.ctfile.com/f/66191444-17569784801592-2a4cf0?p=7632) |
 | The Image of the City | KevinLynch | [下载](https://url89.ctfile.com/f/31084289-1373140972-380fdf?p=8866) |
-| 非常建筑 | 张永和 | [下载](https://url89.ctfile.com/f/31084289-1439903417-e11dbb?p=8866) |
+| 非常建筑 | 张永和 | [下载](https://url44.ctfile.com/f/66191444-17569786787355-43c605?p=7632) |
 | Theorizing a New Agenda for Architecture | Nesbitt / Kate | [下载](https://url89.ctfile.com/f/31084289-1439903681-562672?p=8866) |
 | 第一机械时代的理论与设计 | 雷纳·班纳姆 | [下载](https://url89.ctfile.com/f/31084289-1373356213-b6cb51?p=8866) |
 | 现代建筑设计案例 | 彼得·布伦德尔·琼斯 | [下载](https://url89.ctfile.com/f/31084289-1439903723-81ea98?p=8866) |
@@ -56,7 +56,7 @@
 | 设计思维 | 劳森 | [下载](https://url89.ctfile.com/f/31084289-1439903894-33ccc4?p=8866) |
 | 负建筑 | 隈研吾 | [下载](https://url89.ctfile.com/f/31084289-1439903951-8a115f?p=8866) |
 | 没有建筑师的建筑 | 伯纳德•鲁道夫斯基 | [下载](https://url89.ctfile.com/f/31084289-1439904008-0f331a?p=8866) |
-| 建筑氛围 | 彼得·卒姆托 | [下载](https://url89.ctfile.com/f/31084289-1439904002-460bbc?p=8866) |
+| 建筑氛围 | 彼得·卒姆托 | [下载](https://url44.ctfile.com/f/66191444-17569785147264-d67c7e?p=7632) |
 | 思考建筑 | 皮特.卒姆托 | [下载](https://url89.ctfile.com/f/31084289-1439904017-2ff9b5?p=8866) |
 | Operative Design | AnthonydiMari / NoraYoo | [下载](https://url89.ctfile.com/f/31084289-1373142412-1147b9?p=8866) |
 | Cinematic Urbanism | NezarAlsayyad | [下载](https://url89.ctfile.com/f/31084289-1357736255-def9b4?p=8866) |
@@ -68,6 +68,6 @@
 | 现代主义建筑20讲 | 吴焕加 | [下载](https://url89.ctfile.com/f/31084289-1357682147-40d2fa?p=8866) |
 | Body, Memory, and Architecture (Yale Paperbound) | KentC.Bloomer / CharlesW.Moore | [下载](https://url89.ctfile.com/f/31084289-1373152687-8e7266?p=8866) |
 | The Art of Capacity Planning | JohnAllspaw | [下载](https://url89.ctfile.com/f/31084289-1357745312-d86a37?p=8866) |
-| 如何理解建筑 | 维托尔德·雷布琴斯基 | [下载](https://url89.ctfile.com/f/31084289-1375442917-7afaf1?p=8866) |
+| 如何理解建筑 | 维托尔德·雷布琴斯基 | [下载](https://url44.ctfile.com/f/66191444-17569785145704-e8f9db?p=7632) |
 | 混凝土结构有限元分析 | 江见鲸 | [下载](https://url89.ctfile.com/f/31084289-1357684751-b4d5be?p=8866) |
 | 54 Joao Vilanova Artigas (2G Books) | KennethFrampton / JoaoVilanovaArtigas | [下载](https://url89.ctfile.com/f/31084289-1361614289-0fdca5?p=8866) |

@@ -1,8 +1,8 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
 | 效率提升10倍的google化知性生产技巧 | 胜间和代 | [下载](https://url89.ctfile.com/f/31084289-1361826872-0543df?p=8866) |
-| 重要的事情最难说 | 罗纳德•夏皮罗 | [下载](https://url89.ctfile.com/f/31084289-1375403446-2e6170?p=8866) |
-| The Pomodoro Technique | FrancescoCirillo | [下载](https://url89.ctfile.com/f/31084289-1439936702-7dccf7?p=8866) |
+| 重要的事情最难说 | 罗纳德•夏皮罗 | [下载](https://url44.ctfile.com/f/66191444-17569785549627-c49cea?p=7632) |
+| The Pomodoro Technique | FrancescoCirillo | [下载](https://url44.ctfile.com/f/66191444-17569785648009-231587?p=7632) |
 | 小强升职记（升级版） | 邹鑫 | [下载](https://url89.ctfile.com/f/31084289-1357006204-c05b09?p=8866) |
 | 早上最重要的3件事 | 張永錫 | [下载](https://url89.ctfile.com/f/31084289-1358051390-eac209?p=8866) |
 | 番茄工作法图解 | 诺特伯格 | [下载](https://url89.ctfile.com/f/31084289-1357004824-6211b9?p=8866) |

@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Cinderella | KinukoCraft | [下载](https://url89.ctfile.com/f/31084289-1439833094-0a6873?p=8866) |
+| Cinderella | KinukoCraft | [下载](https://url44.ctfile.com/f/66191444-17569785345925-c58061?p=7632) |

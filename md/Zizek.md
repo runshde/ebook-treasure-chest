@@ -5,4 +5,4 @@
 | Less Than Nothing | SlavojZizek | [下载](https://url89.ctfile.com/f/31084289-1439945330-7d93f7?p=8866) |
 | Lacrimae rerum | SlavojZizek | [下载](https://url89.ctfile.com/f/31084289-1373198086-ef3935?p=8866) |
 | The Most Sublime Hysteric | SlavojŽižek / 斯拉沃热·齐泽克 | [下载](https://url89.ctfile.com/f/31084289-1373101570-6c8c41?p=8866) |
-| The Metastases of Enjoyment | SlavojŽižek | [下载](https://url89.ctfile.com/f/31084289-1357676303-5a3243?p=8866) |
+| The Metastases of Enjoyment | SlavojŽižek | [下载](https://url44.ctfile.com/f/66191444-17569785146699-018a65?p=7632) |

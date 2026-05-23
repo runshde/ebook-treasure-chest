@@ -1,7 +1,7 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
 | 新复仇者联盟2 | 布莱恩•迈克尔•本迪斯 / 史蒂夫·麦克尼文 / 布莱恩·本迪斯 | [下载](https://url89.ctfile.com/f/31084289-1356296557-6ddce2?p=8866) |
-| 鹰眼1：人间兵器的生活 | 马特·弗拉克森 / 戴维·阿哈 | [下载](https://url89.ctfile.com/f/31084289-1356294883-75e858?p=8866) |
+| 鹰眼1：人间兵器的生活 | 马特·弗拉克森 / 戴维·阿哈 | [下载](https://url44.ctfile.com/f/66191444-17569785340833-1acf6b?p=7632) |
 | 复仇者vs X战警 | 布莱恩·迈克尔·本迪斯 / 杰森·亚伦剧 / 小约翰·罗米塔原画 | [下载](https://url89.ctfile.com/f/31084289-1361789189-e06c59?p=8866) |
 | Daredevil | DavidHine / MichaelGaydos | [下载](https://url89.ctfile.com/f/31084289-1373174044-51e482?p=8866) |
 | Star Wars: Darth Maul | CullenBunn / LukeRoss | [下载](https://url89.ctfile.com/f/31084289-1357770059-fc9ee6?p=8866) |

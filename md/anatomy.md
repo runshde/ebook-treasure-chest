@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Yogabody | LasaterPh.D. / P.T.JudithHanson | [下载](https://url89.ctfile.com/f/31084289-1373203849-e1b481?p=8866) |
+| Yogabody | LasaterPh.D. / P.T.JudithHanson | [下载](https://url44.ctfile.com/f/66191444-17569786306674-f5d4b9?p=7632) |

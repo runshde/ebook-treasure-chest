@@ -1,6 +1,6 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Data Mining | CharuC.Aggarwal | [下载](https://url89.ctfile.com/f/31084289-1439918309-c77b50?p=8866) |
+| Data Mining | CharuC.Aggarwal | [下载](https://url44.ctfile.com/f/66191444-17569785247451-14cc5d?p=7632) |
 | 明解C++ | 柴田望洋 | [下载](https://url89.ctfile.com/f/31084289-1373161798-96b43b?p=8866) |
 | Learn Vimscript the Hard Way | SteveLosh | [下载](https://url89.ctfile.com/f/31084289-1373167675-70f8b7?p=8866) |
 | Integer Programming | LaurenceA.Wolsey | [下载](https://url89.ctfile.com/f/31084289-1373171305-26ba28?p=8866) |
@@ -8,7 +8,7 @@
 | Data Pipelines with Apache Airflow | BasHarenslak / JuliandeRuiter | [下载](https://url89.ctfile.com/f/31084289-1439922656-f65ec2?p=8866) |
 | The Elements of Computing Systems (2/e) | NoamNisan / ShimonSchocken | [下载](https://url89.ctfile.com/f/31084289-1439922881-4df3bd?p=8866) |
 | 大规模语言模型 | 张奇桂韬郑锐黄萱菁 | [下载](https://url89.ctfile.com/f/31084289-1357694876-6863e5?p=8866) |
-| Computer Systems: A Programmer's Perspective (3rd Edition) | RandalE.Bryant / DavidR.O'Hallaron | [下载](https://url89.ctfile.com/f/31084289-1439931326-3ab548?p=8866) |
+| Computer Systems: A Programmer's Perspective (3rd Edition) | RandalE.Bryant / DavidR.O'Hallaron | [下载](https://url44.ctfile.com/f/66191444-17569785556049-1a5d38?p=7632) |
 | 因果推理：基础与学习算法 | 乔纳斯·彼得斯 | [下载](https://url89.ctfile.com/f/31084289-1439934707-679fdd?p=8866) |
 | Unity 实战(第2版) | JosephHocking蔡俊鸿译 | [下载](https://url89.ctfile.com/f/31084289-1373180809-ca3256?p=8866) |
 | 饿了么质量体系搭建实战 | 张丙振 / 檀飞翔 | [下载](https://url89.ctfile.com/f/31084289-1375397614-b668be?p=8866) |
@@ -17,12 +17,12 @@
 | ArcPy and ArcGIS | SilasToms | [下载](https://url89.ctfile.com/f/31084289-1439942546-f7c85e?p=8866) |
 | GPT-3 | SandraKublik / ShubhamSaboo | [下载](https://url89.ctfile.com/f/31084289-1439942783-0fa408?p=8866) |
 | 深入浅出Windows API程序设计：核心编程篇 | 王端明 | [下载](https://url89.ctfile.com/f/31084289-1375394458-bc1db4?p=8866) |
-| AWS云计算实战 | 安德烈亚斯·威蒂格迈克尔·威蒂格 | [下载](https://url89.ctfile.com/f/31084289-1357048597-0a26ed?p=8866) |
-| 硅谷简史 | 钱纲 | [下载](https://url89.ctfile.com/f/31084289-1357049638-d5fffc?p=8866) |
-| CPython Internals | AnthonyShaw | [下载](https://url89.ctfile.com/f/31084289-1439944178-60e07f?p=8866) |
+| AWS云计算实战 | 安德烈亚斯·威蒂格迈克尔·威蒂格 | [下载](https://url44.ctfile.com/f/66191444-17569785726872-c4916a?p=7632) |
+| 硅谷简史 | 钱纲 | [下载](https://url44.ctfile.com/f/66191444-17569785735824-6c11b5?p=7632) |
+| CPython Internals | AnthonyShaw | [下载](https://url44.ctfile.com/f/66191444-17569785737415-d38cb0?p=7632) |
 | 现代操作系统 | 陈海波 / 夏虞斌 | [下载](https://url89.ctfile.com/f/31084289-1439946044-f0b55a?p=8866) |
 | 计算机系统基础 第2版 | 袁春风 / 余子濠 | [下载](https://url89.ctfile.com/f/31084289-1439946284-cc0dcd?p=8866) |
-| 算法竞赛入门经典 训练指南 升级版 | 刘汝佳 / 陈锋 | [下载](https://url89.ctfile.com/f/31084289-1375369687-66fa96?p=8866) |
+| 算法竞赛入门经典 训练指南 升级版 | 刘汝佳 / 陈锋 | [下载](https://url44.ctfile.com/f/66191444-17569785871183-dbd398?p=7632) |
 | Spring Cloud微服务架构开发实战 | 董超 / 胡炽维 | [下载](https://url89.ctfile.com/f/31084289-1362257858-7247ee?p=8866) |
 | 计算机视觉 | SimonJ.D.Prince | [下载](https://url89.ctfile.com/f/31084289-1439946899-a332fb?p=8866) |
 | Python从入门到精通 | 明日科技 | [下载](https://url89.ctfile.com/f/31084289-1357771244-48e404?p=8866) |
@@ -45,7 +45,7 @@
 | System Design Interview: Volume 2 | AlexXu / SahnLam | [下载](https://url89.ctfile.com/f/31084289-1373090599-0f8694?p=8866) |
 | 大模型时代的基础架构：大模型算力中心建设指南 | 方天戟 | [下载](https://url89.ctfile.com/f/31084289-8640724176-a84801?p=8866) |
 | AI训练师手册：算法与模型训练从入门到精通 | 谷建阳 | [下载](https://url89.ctfile.com/f/31084289-8640724282-f720a4?p=8866) |
-| 计算机系统 | UmakishoreRamachandran / WilliamLeahyJr. | [下载](https://url89.ctfile.com/f/31084289-1439861522-032ac7?p=8866) |
+| 计算机系统 | UmakishoreRamachandran / WilliamLeahyJr. | [下载](https://url44.ctfile.com/f/66191444-17569786306790-17d632?p=7632) |
 | 软件测试（原书第2版） | RonPatton | [下载](https://url89.ctfile.com/f/31084289-1439861534-e87df1?p=8866) |
 | 量子信息论 | 约翰·沃特罗斯 | [下载](https://url89.ctfile.com/f/31084289-1439862491-08f62d?p=8866) |
 | 精通Scrapy网络爬虫 | 刘硕 | [下载](https://url89.ctfile.com/f/31084289-1357019203-cea982?p=8866) |
@@ -53,7 +53,7 @@
 | GAN实战 | JakubLangr / VladimirBok | [下载](https://url89.ctfile.com/f/31084289-1439863769-e96382?p=8866) |
 | CPU设计实战 | 汪文祥 / 邢金璋 | [下载](https://url89.ctfile.com/f/31084289-1439863862-e71c17?p=8866) |
 | 并行程序设计：概念与实践 | 贝蒂尔·施密特 | [下载](https://url89.ctfile.com/f/31084289-1439863937-028e0b?p=8866) |
-| C++新经典：模板与泛型编程 | 王健伟 | [下载](https://url89.ctfile.com/f/31084289-1359246458-6a692c?p=8866) |
+| C++新经典：模板与泛型编程 | 王健伟 | [下载](https://url44.ctfile.com/f/66191444-17569786316397-76b714?p=7632) |
 | Who Can You Trust？ | RachelBotsman | [下载](https://url89.ctfile.com/f/31084289-1357021600-6613cf?p=8866) |
 | 汇编语言：基于x86处理器（原书第7版） | 基普·欧文 | [下载](https://url89.ctfile.com/f/31084289-1373116063-9980e0?p=8866) |
 | 深入浅出程序设计竞赛 | 洛谷学术组 / 汪楚奇 | [下载](https://url89.ctfile.com/f/31084289-1439874665-c23197?p=8866) |
@@ -64,19 +64,19 @@
 | 父与子的编程之旅：与小卡特一起学Python（第3版） | 沃伦•桑德 / 卡特•桑德 | [下载](https://url89.ctfile.com/f/31084289-1439878010-f28ead?p=8866) |
 | 计算机操作系统 | 汤小丹 | [下载](https://url89.ctfile.com/f/31084289-1439878052-b6d090?p=8866) |
 | 自己动手写神经网络 | 葛一鸣 | [下载](https://url89.ctfile.com/f/31084289-1439878868-6d7767?p=8866) |
-| 正则表达式必知必会（修订版） | 本•福塔 | [下载](https://url89.ctfile.com/f/31084289-1439878601-f233ac?p=8866) |
+| 正则表达式必知必会（修订版） | 本•福塔 | [下载](https://url44.ctfile.com/f/66191444-17569786412793-020474?p=7632) |
 | On Java 中文版：进阶卷（试读本） | BruceEckel | [下载](https://url89.ctfile.com/f/31084289-1439878811-207570?p=8866) |
 | C++程序设计教程（第3版）（通用版） | 钱能 | [下载](https://url89.ctfile.com/f/31084289-1439879042-8d7674?p=8866) |
 | 永恒的图灵 | S.巴里·库珀安德鲁·霍奇斯 | [下载](https://url89.ctfile.com/f/31084289-1439879180-645e5c?p=8866) |
 | 链接器和加载器 | 约翰·R.莱文 | [下载](https://url89.ctfile.com/f/31084289-1357674455-844188?p=8866) |
 | Python asyncio并发编程 | 马修·福勒 | [下载](https://url89.ctfile.com/f/31084289-1373134198-32fca0?p=8866) |
 | C# 7.0 核心技术指南 | JosephAlbahari / BenAlbahari | [下载](https://url89.ctfile.com/f/31084289-1373134300-3fab07?p=8866) |
-| Data Communications and Networking | Forouzan / BehrouzA. | [下载](https://url89.ctfile.com/f/31084289-1373339092-5b5cc3?p=8866) |
+| Data Communications and Networking | Forouzan / BehrouzA. | [下载](https://url44.ctfile.com/f/66191444-17569786732822-919c3f?p=7632) |
 | 模式识别导论 | 齐敏//李大健//郝重阳 | [下载](https://url89.ctfile.com/f/31084289-1357678223-cbd954?p=8866) |
 | 精通区块链编程 | 安德烈亚斯·M.安东波罗斯 | [下载](https://url89.ctfile.com/f/31084289-1356303379-c2716a?p=8866) |
 | 计算机是如何工作的 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1356303172-6d7d38?p=8866) |
 | 可观测性工程 | 夏丽蒂·梅杰斯莉兹·方-琼斯乔治·米兰达 | [下载](https://url89.ctfile.com/f/31084289-1356302497-934835?p=8866) |
-| Head First Android Development | DawnGriffiths / DavidGriffiths | [下载](https://url89.ctfile.com/f/31084289-1374727204-867ee1?p=8866) |
+| Head First Android Development | DawnGriffiths / DavidGriffiths | [下载](https://url44.ctfile.com/f/66191444-17569786867975-f7eee4?p=7632) |
 | 计算机组成与系统结构 | 袁春风 / 杨若瑜 / 王帅 | [下载](https://url89.ctfile.com/f/31084289-1361611715-34c6ab?p=8866) |
 | Vue.js快跑：构建触手可及的高性能Web应用 | CallumMacrae | [下载](https://url89.ctfile.com/f/31084289-1356301414-8beb56?p=8866) |
 | 操作系统概念（原书第9版） | AbrahamSilberschatz / PeterB.Galvin / GregGagne | [下载](https://url89.ctfile.com/f/31084289-1439910260-9df8bc?p=8866) |
@@ -86,7 +86,7 @@
 | 算法精粹：经典计算机科学问题的Java实现 | DavidKopec | [下载](https://url89.ctfile.com/f/31084289-1356300343-3ccca8?p=8866) |
 | Java EE企业级应用开发教程 | 黑马程序员 | [下载](https://url89.ctfile.com/f/31084289-1439914559-408f38?p=8866) |
 | Eclipse Rich Client Platform | JeffMcAffer / Jean-MichelLemieux | [下载](https://url89.ctfile.com/f/31084289-1373153080-3861ab?p=8866) |
-| 复杂系统仿真的Anylogic实践 | 刘亮 | [下载](https://url89.ctfile.com/f/31084289-1356300037-d92987?p=8866) |
+| 复杂系统仿真的Anylogic实践 | 刘亮 | [下载](https://url44.ctfile.com/f/66191444-17569787173258-f58167?p=7632) |
 | 计算机网络实验教程 | 马修 | [下载](https://url89.ctfile.com/f/31084289-1357684322-f85c3e?p=8866) |
 | 大数据时代的认知哲学革命 | 戴潘 | [下载](https://url89.ctfile.com/f/31084289-1357747598-5c8ab5?p=8866) |
 | 算法竞赛入门经典 | 陈锋 | [下载](https://url89.ctfile.com/f/31084289-1357684877-7c8508?p=8866) |

@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| 专家系统 | JosephC.Giarratano / GaryD.Riley | [下载](https://url89.ctfile.com/f/31084289-1439861813-d31ea7?p=8866) |
+| 专家系统 | JosephC.Giarratano / GaryD.Riley | [下载](https://url44.ctfile.com/f/66191444-17569786307215-ee0612?p=7632) |

@@ -1,27 +1,27 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| 流言效應 | 松田美佐 | [下载](https://url89.ctfile.com/f/31084289-1439830847-ba1858?p=8866) |
-| Translation as Intercultural Communication | Snell-Hornby / MaryJettmarova / ZuzanaKaindl | [下载](https://url89.ctfile.com/f/31084289-1357690670-af4aa1?p=8866) |
+| 流言效應 | 松田美佐 | [下载](https://url44.ctfile.com/f/66191444-17569785246856-733a06?p=7632) |
+| Translation as Intercultural Communication | Snell-Hornby / MaryJettmarova / ZuzanaKaindl | [下载](https://url44.ctfile.com/f/66191444-17569785261270-2f7396?p=7632) |
 | Super-sticky WeChat and Chinese Society | YujieChen / ZhifeiMao / JackLinchuanQiu | [下载](https://url89.ctfile.com/f/31084289-1439919707-d39aa6?p=8866) |
 | Wireless Communications | TheodoreS.Rappaport | [下载](https://url89.ctfile.com/f/31084289-1357762478-85d34f?p=8866) |
-| 信号处理与通信中的凸优化 | 祁忠勇李威锖林家祥 | [下载](https://url89.ctfile.com/f/31084289-1356294487-01545f?p=8866) |
-| Wireless Communications | AndreaGoldsmith | [下载](https://url89.ctfile.com/f/31084289-1373177689-5be00e?p=8866) |
+| 信号处理与通信中的凸优化 | 祁忠勇李威锖林家祥 | [下载](https://url44.ctfile.com/f/66191444-17569785343477-4981a6?p=7632) |
+| Wireless Communications | AndreaGoldsmith | [下载](https://url44.ctfile.com/f/66191444-17569785555863-53fe04?p=7632) |
 | Camgirls | TheresaM.Senft | [下载](https://url89.ctfile.com/f/31084289-1357766234-8286e9?p=8866) |
-| Yes! | NoahJ.GoldsteinPh.D. / SteveJ.Martin / RobertB.CialdiniPh.D. | [下载](https://url89.ctfile.com/f/31084289-1439839616-4e2360?p=8866) |
+| Yes! | NoahJ.GoldsteinPh.D. / SteveJ.Martin / RobertB.CialdiniPh.D. | [下载](https://url44.ctfile.com/f/66191444-17569785711099-7a84f7?p=7632) |
 | Dollarocracy | JohnNichols / RobertW.McChesney | [下载](https://url89.ctfile.com/f/31084289-1357770245-efb19d?p=8866) |
 | The Fine Art of Small Talk | DebraFine | [下载](https://url89.ctfile.com/f/31084289-1357774436-2ab48c?p=8866) |
 | 說理Ｉ:任何場合都能展現智慧、達成說服的語言技術 | 傑伊·海因里希斯 / JayHeinrichs | [下载](https://url89.ctfile.com/f/31084289-1362366629-39f471?p=8866) |
 | Talk Like TED | CarmineGallo | [下载](https://url89.ctfile.com/f/31084289-1373106055-088c94?p=8866) |
 | Produsing Theory in a Digital World | 未知 | [下载](https://url89.ctfile.com/f/31084289-1357668647-3675bc?p=8866) |
-| 文化对话：跨文化传播导论 | 迈克尔·H.普罗瑟 | [下载](https://url89.ctfile.com/f/31084289-1373221531-b01907?p=8866) |
-| 媒介学引论 | 雷吉斯•德布雷 | [下载](https://url89.ctfile.com/f/31084289-1439869070-15ecfb?p=8866) |
+| 文化对话：跨文化传播导论 | 迈克尔·H.普罗瑟 | [下载](https://url44.ctfile.com/f/66191444-17569786374421-366b20?p=7632) |
+| 媒介学引论 | 雷吉斯•德布雷 | [下载](https://url44.ctfile.com/f/66191444-17569786379380-279e29?p=7632) |
 | Teaching Language as Communication | Widdowson / H.G. | [下载](https://url89.ctfile.com/f/31084289-1373118046-65d670?p=8866) |
 | If...Then | TainaBucher | [下载](https://url89.ctfile.com/f/31084289-1373326258-f897d1?p=8866) |
 | 元宇宙 | 赵国栋 / 易欢欢 / 徐远重 | [下载](https://url89.ctfile.com/f/31084289-1375500148-0863f3?p=8866) |
 | The Medium is the Massage | MarshallMcLuhan / QuentinFiore | [下载](https://url89.ctfile.com/f/31084289-1373335360-cf69e3?p=8866) |
-| Cyber-Proletariat | NickDyer-Witheford | [下载](https://url89.ctfile.com/f/31084289-1373340454-59ac31?p=8866) |
+| Cyber-Proletariat | NickDyer-Witheford | [下载](https://url44.ctfile.com/f/66191444-17569786741385-384a36?p=7632) |
 | 新闻传播统计学基础 | 曾秀芹 / 张楠 | [下载](https://url89.ctfile.com/f/31084289-1373348236-954904?p=8866) |
-| Understanding Digital Signal Processing | RichardG.Lyons | [下载](https://url89.ctfile.com/f/31084289-1373140072-5ebc52?p=8866) |
+| Understanding Digital Signal Processing | RichardG.Lyons | [下载](https://url44.ctfile.com/f/66191444-17569786784703-f1ec95?p=7632) |
 | 传播力 | 曼纽尔•卡斯特 | [下载](https://url89.ctfile.com/f/31084289-1373352694-3e6170?p=8866) |
 | Text Analysis in Translation | ChristianeNord | [下载](https://url89.ctfile.com/f/31084289-1361610617-80c424?p=8866) |
 | How to Make People Like You in 90 Seconds or Less | NicholasBoothman | [下载](https://url89.ctfile.com/f/31084289-1373147734-9e58e1?p=8866) |

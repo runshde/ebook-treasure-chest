@@ -2,7 +2,7 @@
 | --- | --- | --- |
 | 簾下勾情 | 白鹭 | [下载](https://url89.ctfile.com/f/31084289-1356296734-399d50?p=8866) |
 | Chromophobia | DavidBatchelor | [下载](https://url89.ctfile.com/f/31084289-1357760045-f79317?p=8866) |
-| 后现代之后 | 邵亦杨 | [下载](https://url89.ctfile.com/f/31084289-1373164891-3004c8?p=8866) |
+| 后现代之后 | 邵亦杨 | [下载](https://url44.ctfile.com/f/66191444-17569785264381-54de7d?p=7632) |
 | Art Beyond Representation | BarbaraBolt | [下载](https://url89.ctfile.com/f/31084289-1357760273-8ebb33?p=8866) |
 | 20th Century Photography | MuseumLudwigCologne | [下载](https://url89.ctfile.com/f/31084289-1439922524-91aaa1?p=8866) |
 | Bernini | RudolphWittkower | [下载](https://url89.ctfile.com/f/31084289-1373181835-1d76e3?p=8866) |
@@ -27,5 +27,5 @@
 | Rembrandt's Eyes | SimonSchama | [下载](https://url89.ctfile.com/f/31084289-1373334466-7ab6c7?p=8866) |
 | 1985年以来的当代艺术理论 | 佐亚·科库尔 / 梁硕恩 | [下载](https://url89.ctfile.com/f/31084289-1373346163-bc051c?p=8866) |
 | The Soundscape | R.MurraySchafer | [下载](https://url89.ctfile.com/f/31084289-1373144425-49017f?p=8866) |
-| Olafur Eliasson | MadeleineGrynsztejn | [下载](https://url89.ctfile.com/f/31084289-1373146018-1f120c?p=8866) |
+| Olafur Eliasson | MadeleineGrynsztejn | [下载](https://url44.ctfile.com/f/66191444-17569787040395-e641ee?p=7632) |
 | 奇点艺术 | 谭力勤 | [下载](https://url89.ctfile.com/f/31084289-1357031506-d46d94?p=8866) |

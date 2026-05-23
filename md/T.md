@@ -1,6 +1,6 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| 流言效應 | 松田美佐 | [下载](https://url89.ctfile.com/f/31084289-1439830847-ba1858?p=8866) |
+| 流言效應 | 松田美佐 | [下载](https://url44.ctfile.com/f/66191444-17569785246856-733a06?p=7632) |
 | 治术与权谋：韩非子典正 | 王斐弘 | [下载](https://url89.ctfile.com/f/31084289-1373161546-66e2c4?p=8866) |
 | 中國社會學理論 | 鄒川雄 | [下载](https://url89.ctfile.com/f/31084289-1439918543-070b1e?p=8866) |
 | Welsh's Synthesizer Cookbook | FredWelsh | [下载](https://url89.ctfile.com/f/31084289-1439919788-547c3f?p=8866) |

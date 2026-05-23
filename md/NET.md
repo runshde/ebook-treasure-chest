@@ -4,7 +4,7 @@
 | .net之美 | 张子阳 | [下载](https://url89.ctfile.com/f/31084289-1439833097-0394bf?p=8866) |
 | Windows Presentation Foundation Unleashed | AdamNathan | [下载](https://url89.ctfile.com/f/31084289-1439926517-8d7350?p=8866) |
 | ASP.NET Core开发实战 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1373177947-5267b4?p=8866) |
-| WPF编程宝典 | 麦克唐纳 | [下载](https://url89.ctfile.com/f/31084289-1357695494-0b0134?p=8866) |
+| WPF编程宝典 | 麦克唐纳 | [下载](https://url44.ctfile.com/f/66191444-17569785576475-c40866?p=7632) |
 | C#高级编程 | ChristianNagel | [下载](https://url89.ctfile.com/f/31084289-1439942771-12e4cd?p=8866) |
 | .NET探秘 | 利丁 | [下载](https://url89.ctfile.com/f/31084289-1362115820-a905d8?p=8866) |
 | ASP.NET Core技术内幕与项目实战 | 杨中科 | [下载](https://url89.ctfile.com/f/31084289-1373188711-a14d38?p=8866) |

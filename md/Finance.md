@@ -7,7 +7,7 @@
 | Development on Loan | NicholasLoubere | [下载](https://url89.ctfile.com/f/31084289-1357693436-f1b056?p=8866) |
 | Financial Statement Analysis and Security Valuation | StephenHPenman | [下载](https://url89.ctfile.com/f/31084289-1357765256-7b8c97?p=8866) |
 | The Alchemy of Finance | GeorgeSoros | [下载](https://url89.ctfile.com/f/31084289-1439932628-0bae6d?p=8866) |
-| Freefall | JosephE.Stiglitz | [下载](https://url89.ctfile.com/f/31084289-1373180581-8a8c65?p=8866) |
+| Freefall | JosephE.Stiglitz | [下载](https://url44.ctfile.com/f/66191444-17569785645664-5569db?p=7632) |
 | Tap Dancing to Work | CarolJ.Loomis | [下载](https://url89.ctfile.com/f/31084289-1439837939-9ba87d?p=8866) |
 | The Theory of Investment Value | JohnBurrWilliams | [下载](https://url89.ctfile.com/f/31084289-1373183284-3e3ef4?p=8866) |
 | Python for Finance | YvesHilpisch | [下载](https://url89.ctfile.com/f/31084289-1439943284-9f8d30?p=8866) |
@@ -26,13 +26,13 @@
 | Machine Learning for Asset Managers | MarcosLópezdePrado | [下载](https://url89.ctfile.com/f/31084289-1373100826-bedcb0?p=8866) |
 | 股权激励与股权架构设计 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1357666073-857cdd?p=8866) |
 | 炒掉你的股票分析师（原书第2版） | 哈里·多马什 | [下载](https://url89.ctfile.com/f/31084289-1357003948-063db9?p=8866) |
-| King of Capital | DavidCarey / JohnE.Morris | [下载](https://url89.ctfile.com/f/31084289-1357019350-173264?p=8866) |
+| King of Capital | DavidCarey / JohnE.Morris | [下载](https://url44.ctfile.com/f/66191444-17569786313169-83dc46?p=7632) |
 | Paul Wilmott on Quantitative Finance 3 Volume Set | PaulWilmott | [下载](https://url89.ctfile.com/f/31084289-1357669091-4a5e40?p=8866) |
 | 香港聯繋匯率保衛戰 | 粵海金融控股研究部（王小強、梁曉、劉冰 | [下载](https://url89.ctfile.com/f/31084289-1373219341-2e0712?p=8866) |
 | Fixed Income Securities | PietroVeronesi | [下载](https://url89.ctfile.com/f/31084289-1373222518-ace6e5?p=8866) |
 | Warren Buffet | Jr.RobertG.Hagstrom | [下载](https://url89.ctfile.com/f/31084289-1361605301-fc0748?p=8866) |
 | How to Make Money in Stocks | WilliamJ.O'Neil | [下载](https://url89.ctfile.com/f/31084289-1374951589-363f8f?p=8866) |
-| Paul Wilmott Introduces Quantitative Finance | PaulWilmott | [下载](https://url89.ctfile.com/f/31084289-1373129890-71baf1?p=8866) |
+| Paul Wilmott Introduces Quantitative Finance | PaulWilmott | [下载](https://url44.ctfile.com/f/66191444-17569786585233-a7c270?p=7632) |
 | Seamless R and C++ Integration with Rcpp | DirkEddelbuettel | [下载](https://url89.ctfile.com/f/31084289-1373332765-41c929?p=8866) |
 | Handbook of the Economics of Finance | G.M.Constantinides | [下载](https://url89.ctfile.com/f/31084289-1357678415-92b8f2?p=8866) |
 | Elementary Stochastic Calculus With Finance in View | ThomasMikosch | [下载](https://url89.ctfile.com/f/31084289-1357679312-5bdc1f?p=8866) |

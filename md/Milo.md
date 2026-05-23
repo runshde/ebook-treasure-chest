@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Butterscotch | MiloManara | [下载](https://url89.ctfile.com/f/31084289-1373214385-dc0fcc?p=8866) |
+| Butterscotch | MiloManara | [下载](https://url44.ctfile.com/f/66191444-17569786327487-798e63?p=7632) |

@@ -10,5 +10,5 @@
 | Manifestly Haraway | DonnaJ.Haraway | [下载](https://url89.ctfile.com/f/31084289-1373119024-39d055?p=8866) |
 | A Vindication of the Rights of Woman | Wollstonecraft / Mary | [下载](https://url89.ctfile.com/f/31084289-1373332924-31a668?p=8866) |
 | Hamnet | MaggieO'Farrell | [下载](https://url89.ctfile.com/f/31084289-1374726595-933024?p=8866) |
-| Our Bodies Ourselves | BostonWomen'sHealthBookCollective | [下载](https://url89.ctfile.com/f/31084289-1439916587-22c7ef?p=8866) |
+| Our Bodies Ourselves | BostonWomen'sHealthBookCollective | [下载](https://url44.ctfile.com/f/66191444-17569787233039-97c5db?p=7632) |
 | 女权主义理论读本 | 佩吉·麦克拉肯 / 艾晓明 / 柯倩婷 | [下载](https://url89.ctfile.com/f/31084289-1361647697-fd2ad7?p=8866) |

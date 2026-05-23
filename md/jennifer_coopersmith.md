@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| The Lazy Universe | JenniferCoopersmith | [下载](https://url89.ctfile.com/f/31084289-1373170801-a7a10a?p=8866) |
+| The Lazy Universe | JenniferCoopersmith | [下载](https://url44.ctfile.com/f/66191444-17569785345709-4eaead?p=7632) |

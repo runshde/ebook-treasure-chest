@@ -12,7 +12,7 @@
 | Heterotopia and the City | Dehaene / MichielDeCaute / Lieven | [下载](https://url89.ctfile.com/f/31084289-1373102341-111fb8?p=8866) |
 | 刑事理论与刑事制度 | 米歇尔·福柯 | [下载](https://url89.ctfile.com/f/31084289-1439867003-eed0c3?p=8866) |
 | 临床医学的诞生 | 米歇尔·福柯 | [下载](https://url89.ctfile.com/f/31084289-1439867747-517ac5?p=8866) |
-| 最新西方文论选 | 王逢振盛宁李自修 | [下载](https://url89.ctfile.com/f/31084289-1362406361-ea0fef?p=8866) |
+| 最新西方文论选 | 王逢振盛宁李自修 | [下载](https://url44.ctfile.com/f/66191444-17569784784848-aa7013?p=7632) |
 | 德勒兹论福柯 | 吉尔·德勒兹 | [下载](https://url89.ctfile.com/f/31084289-1356307162-130fad?p=8866) |
 | 主体解释学 | 米歇尔·福柯 | [下载](https://url89.ctfile.com/f/31084289-1439896172-5f4d0b?p=8866) |
 | 福柯的“异托邦”思想研究 | 张锦 | [下载](https://url89.ctfile.com/f/31084289-1373137306-f2af87?p=8866) |

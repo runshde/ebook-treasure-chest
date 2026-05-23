@@ -5,7 +5,7 @@
 | Vault Guide to Schmoozing, 3rd Edition | MarcyLerner | [下载](https://url89.ctfile.com/f/31084289-1357766738-5f353d?p=8866) |
 | Mindshift | BarbaraOakley | [下载](https://url89.ctfile.com/f/31084289-1439841182-68d327?p=8866) |
 | The Unspoken Rules | GorickNg | [下载](https://url89.ctfile.com/f/31084289-1439844053-a80f0d?p=8866) |
-| The Secret Syllabus | JayPhelan / TerryBurnham | [下载](https://url89.ctfile.com/f/31084289-1374963532-e6f5a5?p=8866) |
+| The Secret Syllabus | JayPhelan / TerryBurnham | [下载](https://url44.ctfile.com/f/66191444-17569786312357-bc515a?p=7632) |
 | The Compleat Academic | Darley / JohnM.Zanna / MarkP.Roediger | [下载](https://url89.ctfile.com/f/31084289-1373107747-0e4cb1?p=8866) |
 | The Long Game | DorieClark | [下载](https://url89.ctfile.com/f/31084289-1374959782-32a945?p=8866) |
 | 100 Tricks to Appear Smart in Meetings | SarahCooper | [下载](https://url89.ctfile.com/f/31084289-1374958672-d2bed5?p=8866) |

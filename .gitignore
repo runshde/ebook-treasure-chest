@@ -27,3 +27,7 @@ __pycache__/
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# 超大搜索索引（直接 rsync 到服务器，不走 git）
+docs/all-books.json
+docs/books.json

@@ -9,4 +9,4 @@
 | 流形上的几何与分析 | 张伟平 / 冯惠涛 | [下载](https://url89.ctfile.com/f/31084289-1356300769-1f2911?p=8866) |
 | 点集拓扑讲义 | 熊金城 | [下载](https://url89.ctfile.com/f/31084289-1357683095-e5267f?p=8866) |
 | Orbifolds and Stringy Topology | AlejandroAdem / JohannLeida / YongbinRuan | [下载](https://url89.ctfile.com/f/31084289-1357745384-d455c5?p=8866) |
-| 拓扑学教程 | GustaveChoquet | [下载](https://url89.ctfile.com/f/31084289-1361614349-ebbcc1?p=8866) |
+| 拓扑学教程 | GustaveChoquet | [下载](https://url44.ctfile.com/f/66191444-17569787232946-7d398b?p=7632) |

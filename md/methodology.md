@@ -18,7 +18,7 @@
 | 解析社会 | 彼得·赫斯特洛姆 | [下载](https://url89.ctfile.com/f/31084289-1357675661-90eda6?p=8866) |
 | 量化社会科学导论 | 今井耕介 | [下载](https://url89.ctfile.com/f/31084289-1356304699-136b98?p=8866) |
 | Comparative Historical Analysis in the Social Sciences | JamesMahoney / DietrichRueschemeyer / 詹姆斯·马奥尼 | [下载](https://url89.ctfile.com/f/31084289-1373137021-271e31?p=8866) |
-| 質化資料分析-MAXQDA軟體的應用 | 張奕華 | [下载](https://url89.ctfile.com/f/31084289-1373139184-9f8278?p=8866) |
+| 質化資料分析-MAXQDA軟體的應用 | 張奕華 | [下载](https://url44.ctfile.com/f/66191444-17569786773394-d14dc1?p=7632) |
 | The Workflow of Data Analysis Using Stata | J.ScottLong | [下载](https://url89.ctfile.com/f/31084289-1439909585-c99cc6?p=8866) |
 | 量表编制 | 罗伯特·F.德维利斯 | [下载](https://url89.ctfile.com/f/31084289-1357681790-24e40a?p=8866) |
 | 现代数学手册·近代数学卷 | 徐利治主编 | [下载](https://url89.ctfile.com/f/31084289-1361612219-2ea626?p=8866) |

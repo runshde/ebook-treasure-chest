@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| The Handbook of Commodity Investing | FrankJ.Fabozzi / RolandFuss / DieterG.Kaiser | [下载](https://url89.ctfile.com/f/31084289-1357677692-5c8acd?p=8866) |
+| The Handbook of Commodity Investing | FrankJ.Fabozzi / RolandFuss / DieterG.Kaiser | [下载](https://url44.ctfile.com/f/66191444-17569786632595-501220?p=7632) |

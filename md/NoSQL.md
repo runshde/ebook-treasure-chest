@@ -5,6 +5,6 @@
 | MongoDB实战 | KyleBanker | [下载](https://url89.ctfile.com/f/31084289-1373188726-760226?p=8866) |
 | MongoDB管理与开发精要 | 红丸 | [下载](https://url89.ctfile.com/f/31084289-1373198761-980dd2?p=8866) |
 | Redis5设计与源码分析 | 陈雷 | [下载](https://url89.ctfile.com/f/31084289-1374963832-df6de6?p=8866) |
-| Redis实战 | JosiahL.Carlson | [下载](https://url89.ctfile.com/f/31084289-1439863835-f69e67?p=8866) |
+| Redis实战 | JosiahL.Carlson | [下载](https://url44.ctfile.com/f/66191444-17569786313580-62eeab?p=7632) |
 | MongoDB实战 | KyleBanker | [下载](https://url89.ctfile.com/f/31084289-1357021072-264d70?p=8866) |
 | Redis实战 | JosiahL·Carlson | [下载](https://url89.ctfile.com/f/31084289-1357021837-2f3bb0?p=8866) |

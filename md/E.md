@@ -13,7 +13,7 @@
 | Girls Don't Have Cooties | Krulik / NancyE. | [下载](https://url89.ctfile.com/f/31084289-1373207833-a4f578?p=8866) |
 | 100 Essays I Don't Have Time to Write | SarahRuhl | [下载](https://url89.ctfile.com/f/31084289-1374957958-d1e03d?p=8866) |
 | 冷战国际史研究14 | 李丹慧 | [下载](https://url89.ctfile.com/f/31084289-1362405941-99167c?p=8866) |
-| DJing for Dummies | JohnSteventon | [下载](https://url89.ctfile.com/f/31084289-1373254093-9a5178?p=8866) |
+| DJing for Dummies | JohnSteventon | [下载](https://url44.ctfile.com/f/66191444-17569786390746-36de33?p=7632) |
 | 透纳与拉斐尔前派 | 约翰·罗斯金 / 罗斯金 | [下载](https://url89.ctfile.com/f/31084289-1373324218-8fb4d1?p=8866) |
 | 物理化学学习及考研指导 | 沈文霞 | [下载](https://url89.ctfile.com/f/31084289-1373324818-29c91a?p=8866) |
 | 古巴比伦时期不动产经济活动研究 | 李海峰 | [下载](https://url89.ctfile.com/f/31084289-1357677203-91f4b8?p=8866) |

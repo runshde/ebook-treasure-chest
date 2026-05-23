@@ -7,4 +7,4 @@
 | Bullseye | MattKirk / SariMustonen-Kirk | [下载](https://url89.ctfile.com/f/31084289-1439842901-2b50f6?p=8866) |
 | House Guests, House Pests | RichardJones | [下载](https://url89.ctfile.com/f/31084289-1357772084-3dd283?p=8866) |
 | 金融与经济周期预测 | 〖美〗Ｍ﹒Ｐ﹒尼米 | [下载](https://url89.ctfile.com/f/31084289-1439859698-e5b3af?p=8866) |
-| 生物人类学（第二版） | 李法军 | [下载](https://url89.ctfile.com/f/31084289-1356299554-c7cfcd?p=8866) |
+| 生物人类学（第二版） | 李法军 | [下载](https://url44.ctfile.com/f/66191444-17569787177681-e4158b?p=7632) |

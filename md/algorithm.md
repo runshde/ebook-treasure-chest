@@ -10,4 +10,4 @@
 | The Art of Computer Programming, Volumes 1-3 Boxed Set | DonaldE.Knuth | [下载](https://url89.ctfile.com/f/31084289-1373133802-0afc51?p=8866) |
 | 算法引论 | UdiManber | [下载](https://url89.ctfile.com/f/31084289-1439916122-e401a0?p=8866) |
 | 柔性字符串匹配 | 纳瓦罗 | [下载](https://url89.ctfile.com/f/31084289-1357748360-26113f?p=8866) |
-| 算法（第5部分） | 塞奇威克 | [下载](https://url89.ctfile.com/f/31084289-1357685300-17becc?p=8866) |
+| 算法（第5部分） | 塞奇威克 | [下载](https://url44.ctfile.com/f/66191444-17569787258409-77835f?p=7632) |

@@ -19,9 +19,9 @@
 | Verilog与SystemVerilog编程陷阱 | 斯图尔特·萨瑟兰 / 当·米尔斯 | [下载](https://url89.ctfile.com/f/31084289-1361606204-af5d81?p=8866) |
 | 模拟集成电路设计精粹 | 桑森 | [下载](https://url89.ctfile.com/f/31084289-1439886287-9abfe8?p=8866) |
 | 数字集成电路物理设计 | 陈春章 / 艾霞 / 王国雄 | [下载](https://url89.ctfile.com/f/31084289-1361607218-88db5a?p=8866) |
-| 电子封装技术与可靠性 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1373331454-ec1bbe?p=8866) |
+| 电子封装技术与可靠性 | 未知 | [下载](https://url44.ctfile.com/f/66191444-17569786594578-fe6115?p=7632) |
 | 集成电路制造工艺与工程应用 | 温德通 | [下载](https://url89.ctfile.com/f/31084289-1439906855-1ad69f?p=8866) |
-| 人工智能芯片设计 | 尹首一 / 涂锋斌 / 朱丹 | [下载](https://url89.ctfile.com/f/31084289-1439907242-e2f5e3?p=8866) |
-| 高级ASIC芯片综合 | Himanshubhatnagar | [下载](https://url89.ctfile.com/f/31084289-1373151880-b9bdba?p=8866) |
-| Operational Amplifiers | Huijsing / JohanH. | [下载](https://url89.ctfile.com/f/31084289-1361613008-4749a4?p=8866) |
+| 人工智能芯片设计 | 尹首一 / 涂锋斌 / 朱丹 | [下载](https://url44.ctfile.com/f/66191444-17569787009304-ae5c8f?p=7632) |
+| 高级ASIC芯片综合 | Himanshubhatnagar | [下载](https://url44.ctfile.com/f/66191444-17569787065994-59b06b?p=7632) |
+| Operational Amplifiers | Huijsing / JohanH. | [下载](https://url44.ctfile.com/f/66191444-17569787068153-0e2e3a?p=7632) |
 | 晶体管原理与设计 | 陈星弼 | [下载](https://url89.ctfile.com/f/31084289-1357748369-48ee67?p=8866) |

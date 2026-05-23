@@ -8,7 +8,7 @@
 | China's Telecommunications Revolution | Harwit | [下载](https://url89.ctfile.com/f/31084289-1357668296-087f51?p=8866) |
 | Produsing Theory in a Digital World | 未知 | [下载](https://url89.ctfile.com/f/31084289-1357668647-3675bc?p=8866) |
 | Beyond the Multiplex | BarbaraKlinger | [下载](https://url89.ctfile.com/f/31084289-1357673924-066e24?p=8866) |
-| We Are Bellingcat | EliotHiggins | [下载](https://url89.ctfile.com/f/31084289-1374948670-bbd906?p=8866) |
+| We Are Bellingcat | EliotHiggins | [下载](https://url44.ctfile.com/f/66191444-17569786595940-c9518b?p=7632) |
 | The Medium is the Massage | MarshallMcLuhan / QuentinFiore | [下载](https://url89.ctfile.com/f/31084289-1373335360-cf69e3?p=8866) |
 | The Mediated Construction of Reality | NickCouldry / AndreasHepp / 尼克·库尔德利 | [下载](https://url89.ctfile.com/f/31084289-1374726712-8c2c72?p=8866) |
 | Image Science | W.J.T.Mitchell | [下载](https://url89.ctfile.com/f/31084289-1373154433-9d7aef?p=8866) |

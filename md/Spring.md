@@ -13,10 +13,10 @@
 | 深入理解Spring Cloud与微服务构建 | 方志朋 | [下载](https://url89.ctfile.com/f/31084289-1373125322-e64e8c?p=8866) |
 | Spring Boot 2+Thymeleaf企业应用实战 | 杨恩雄 | [下载](https://url89.ctfile.com/f/31084289-1439861663-fc1ec4?p=8866) |
 | 精通Spring：Java Web开发与Spring Boot高级功能 | 兰加•拉奥•卡拉南 | [下载](https://url89.ctfile.com/f/31084289-1439862731-662b5e?p=8866) |
-| Spring Boot+Vue全栈开发实战 | 王松 | [下载](https://url89.ctfile.com/f/31084289-1439862857-b5e878?p=8866) |
+| Spring Boot+Vue全栈开发实战 | 王松 | [下载](https://url44.ctfile.com/f/66191444-17569786310854-1a4755?p=7632) |
 | 微服务架构基础:Spring Boot+Spring Cloud+Docker | 黑马程序员 | [下载](https://url89.ctfile.com/f/31084289-1362401078-eaea33?p=8866) |
 | Spring实战（第4版） | CraigWalls沃尔斯 | [下载](https://url89.ctfile.com/f/31084289-1357020319-e008d6?p=8866) |
-| Spring Cloud微服务实战 | 翟永超 | [下载](https://url89.ctfile.com/f/31084289-1357020250-1e5ad7?p=8866) |
+| Spring Cloud微服务实战 | 翟永超 | [下载](https://url44.ctfile.com/f/66191444-17569786323135-1f1b07?p=7632) |
 | Spring Boot实战 | 克雷格·沃斯 | [下载](https://url89.ctfile.com/f/31084289-1357021069-b1405c?p=8866) |
 | Spring MVC + MyBatis快速开发与项目实战 | 黄文毅 | [下载](https://url89.ctfile.com/f/31084289-1439875511-867fe2?p=8866) |
 | Spring Data JPA从入门到精通 | 张振华 | [下载](https://url89.ctfile.com/f/31084289-1439876714-1eec41?p=8866) |

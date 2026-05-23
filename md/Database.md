@@ -1,6 +1,6 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| SQL Cookbook中文版 | 莫利纳罗 | [下载](https://url89.ctfile.com/f/31084289-1357690625-cf4f5c?p=8866) |
+| SQL Cookbook中文版 | 莫利纳罗 | [下载](https://url44.ctfile.com/f/66191444-17569785261000-fafb09?p=7632) |
 | 精通LevelDB | 廖环宇 / 张仕华 | [下载](https://url89.ctfile.com/f/31084289-1373196106-b3957e?p=8866) |
 | Architecture of a Database System | JosephMHellerstein / MichaelStonebraker / JamesHamilton | [下载](https://url89.ctfile.com/f/31084289-1439962523-88e3ad?p=8866) |
 | MySQL技术内幕 | 姜承尧 | [下载](https://url89.ctfile.com/f/31084289-1357658612-099ef2?p=8866) |

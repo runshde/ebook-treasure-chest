@@ -4,12 +4,12 @@
 | Lonely Planet Middle East | 未知 | [下载](https://url89.ctfile.com/f/31084289-1357773263-d7b73e?p=8866) |
 | Lonely Planet Central Asia | LonelyPlanet | [下载](https://url89.ctfile.com/f/31084289-1357773659-1717b7?p=8866) |
 | 柬埔寨 | LonelyPlanet公司 | [下载](https://url89.ctfile.com/f/31084289-1375361143-f542e0?p=8866) |
-| Lonely Planet孤独星球 | 兰普雷尔 | [下载](https://url89.ctfile.com/f/31084289-1375360708-fec3d9?p=8866) |
+| Lonely Planet孤独星球 | 兰普雷尔 | [下载](https://url44.ctfile.com/f/66191444-17569786095641-67bafd?p=7632) |
 | 四川和重庆 | 澳大利亚LonelyPlanet公司 | [下载](https://url89.ctfile.com/f/31084289-1373080570-7e4b06?p=8866) |
 | Lonely Planet Georgia Armenia & Azerbaijan | LonelyPlanet / JohnNoble / MichaelKohn | [下载](https://url89.ctfile.com/f/31084289-1373199391-d1c891?p=8866) |
-| 泰国 | Lonelyplanet公司 | [下载](https://url89.ctfile.com/f/31084289-1373125846-7a3793?p=8866) |
-| Lonely Planet New Zealand | CharlesRawlings-Way | [下载](https://url89.ctfile.com/f/31084289-1374960013-82da5f?p=8866) |
-| 马来西亚、新加坡和文莱 | LonelyPlanet公司 | [下载](https://url89.ctfile.com/f/31084289-1357670057-01407e?p=8866) |
+| 泰国 | Lonelyplanet公司 | [下载](https://url44.ctfile.com/f/66191444-17569786150460-12f336?p=7632) |
+| Lonely Planet New Zealand | CharlesRawlings-Way | [下载](https://url44.ctfile.com/f/66191444-17569786333142-4a5c57?p=7632) |
+| 马来西亚、新加坡和文莱 | LonelyPlanet公司 | [下载](https://url44.ctfile.com/f/66191444-17569786344199-dd750f?p=7632) |
 | Lonely Planet孤独星球：中国自驾（2017年版） | 澳大利亚LonelyPlanet公司 | [下载](https://url89.ctfile.com/f/31084289-1357671359-a795ca?p=8866) |
 | Lonely Planet Trekking in the Nepal Himalaya | LonelyPlanet / BradleyMayhew / JoeBindloss | [下载](https://url89.ctfile.com/f/31084289-1374954460-a222d0?p=8866) |
 | 印度尼西亚 | 澳大利亚LonelyPlanet公司 | [下载](https://url89.ctfile.com/f/31084289-1357674935-9d9cf0?p=8866) |

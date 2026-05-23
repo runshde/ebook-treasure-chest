@@ -1,7 +1,7 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Albrecht Dürer | AlbrechtDürer | [下载](https://url89.ctfile.com/f/31084289-1357756352-2447db?p=8866) |
-| 画梁春尽落香尘 | 刘心武 | [下载](https://url89.ctfile.com/f/31084289-1357042753-f657fc?p=8866) |
+| Albrecht Dürer | AlbrechtDürer | [下载](https://url44.ctfile.com/f/66191444-17569785252901-c663d3?p=7632) |
+| 画梁春尽落香尘 | 刘心武 | [下载](https://url44.ctfile.com/f/66191444-17569785548094-924b40?p=7632) |
 | 心中的大佛 | 傅惟慈 | [下载](https://url89.ctfile.com/f/31084289-1439934002-f19f4f?p=8866) |
 | 魏斯曼的演讲大师课2：答的艺术 | 杰瑞·魏斯曼 | [下载](https://url89.ctfile.com/f/31084289-1356985396-3ff85c?p=8866) |
 | 语文二年级上册（部编本） | 教育部组织编写 | [下载](https://url89.ctfile.com/f/31084289-1439958830-129732?p=8866) |

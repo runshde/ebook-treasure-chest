@@ -10,7 +10,7 @@
 | 自然语言处理综论 | DanielJurafsky / JamesH.Martin | [下载](https://url89.ctfile.com/f/31084289-1373105908-c9f5a8?p=8866) |
 | NLP：自我改变的惊人秘密 | 理查德·班德勒 | [下载](https://url89.ctfile.com/f/31084289-1362402926-513a81?p=8866) |
 | 基于深度学习的自然语言处理 | YoavGoldberg | [下载](https://url89.ctfile.com/f/31084289-1439875538-e5be85?p=8866) |
-| Introduction to Natural Language Processing | JacobEisenstein | [下载](https://url89.ctfile.com/f/31084289-1374949948-f3a4fd?p=8866) |
+| Introduction to Natural Language Processing | JacobEisenstein | [下载](https://url44.ctfile.com/f/66191444-17569786585834-2ba901?p=7632) |
 | The Power of Language | Young / Lynne/Fitzgerald / Brigid | [下载](https://url89.ctfile.com/f/31084289-1373329645-105b78?p=8866) |
 | 语言与数学 | 冯志伟 | [下载](https://url89.ctfile.com/f/31084289-1373137576-7e70d1?p=8866) |
 | 计量语言学导论 | 刘海涛 | [下载](https://url89.ctfile.com/f/31084289-1357681784-24dcf7?p=8866) |

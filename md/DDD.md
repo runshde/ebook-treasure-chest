@@ -4,4 +4,4 @@
 | 深入实践DDD：以DSL驱动复杂软件开发 | 杨捷锋 | [下载](https://url89.ctfile.com/f/31084289-1358056574-9a0297?p=8866) |
 | 房中始祖彭祖 | 周濯街 | [下载](https://url89.ctfile.com/f/31084289-1373222710-b22831?p=8866) |
 | 领域驱动设计模式、原理与实践 | ScottMillett / NickTune | [下载](https://url89.ctfile.com/f/31084289-1439876588-69cabd?p=8866) |
-| Domain Modeling Made Functional | ScottWlaschin | [下载](https://url89.ctfile.com/f/31084289-1373152252-942b14?p=8866) |
+| Domain Modeling Made Functional | ScottWlaschin | [下载](https://url44.ctfile.com/f/66191444-17569787068351-ecf23e?p=7632) |

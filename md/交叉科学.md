@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| SYNC | StevenH.Strogatz | [下载](https://url89.ctfile.com/f/31084289-1373201617-1c1879?p=8866) |
+| SYNC | StevenH.Strogatz | [下载](https://url44.ctfile.com/f/66191444-17569786154097-ac32e1?p=7632) |

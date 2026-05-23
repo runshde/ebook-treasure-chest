@@ -4,4 +4,4 @@
 | The New Testament: A Historical Introduction to the Early Christian Writings | BartD.Ehrman | [下载](https://url89.ctfile.com/f/31084289-1373177740-1379da?p=8866) |
 | Quo Vadis | Henryk / Sienkiewicz | [下载](https://url89.ctfile.com/f/31084289-1357769954-3f7980?p=8866) |
 | 天使的传言 | 贝格尔 | [下载](https://url89.ctfile.com/f/31084289-1362359432-5aa6c4?p=8866) |
-| Ephesians | DrJohnRWScott | [下载](https://url89.ctfile.com/f/31084289-1357676924-2f442a?p=8866) |
+| Ephesians | DrJohnRWScott | [下载](https://url44.ctfile.com/f/66191444-17569786595993-e8e6a3?p=7632) |

@@ -1,20 +1,20 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| 出龛入龛 | 徐婷婷 | [下载](https://url89.ctfile.com/f/31084289-1357691603-aac27b?p=8866) |
+| 出龛入龛 | 徐婷婷 | [下载](https://url44.ctfile.com/f/66191444-17569785291446-278b78?p=7632) |
 | 荒木经惟的天才写真术 | 荒木经惟 | [下载](https://url89.ctfile.com/f/31084289-1373170762-9bb620?p=8866) |
 | 20th Century Photography | MuseumLudwigCologne | [下载](https://url89.ctfile.com/f/31084289-1439922524-91aaa1?p=8866) |
 | Nothing Personal | RichardAvedon / JamesBaldwin | [下载](https://url89.ctfile.com/f/31084289-1439834267-4efff3?p=8866) |
-| DSLR数码单反摄影圣经 | 雷依里 | [下载](https://url89.ctfile.com/f/31084289-1361899643-570a44?p=8866) |
-| The Digital Photography Book, Part 2 | ScottKelby | [下载](https://url89.ctfile.com/f/31084289-1439939834-ac11f5?p=8866) |
+| DSLR数码单反摄影圣经 | 雷依里 | [下载](https://url44.ctfile.com/f/66191444-17569785546652-9eed4d?p=7632) |
+| The Digital Photography Book, Part 2 | ScottKelby | [下载](https://url44.ctfile.com/f/66191444-17569785657612-72d372?p=7632) |
 | The Negative | AnselAdams / RobertBaker / A・亚当斯 | [下载](https://url89.ctfile.com/f/31084289-1439942420-3de34a?p=8866) |
-| Fashion as Photograph | EugenieShinkle | [下载](https://url89.ctfile.com/f/31084289-1439942879-ba9fd2?p=8866) |
-| A Tenth of a Second | JimenaCanales | [下载](https://url89.ctfile.com/f/31084289-1439942954-04034b?p=8866) |
+| Fashion as Photograph | EugenieShinkle | [下载](https://url44.ctfile.com/f/66191444-17569785712326-7b02df?p=7632) |
+| A Tenth of a Second | JimenaCanales | [下载](https://url44.ctfile.com/f/66191444-17569785716864-b3107e?p=7632) |
 | Practical Color Management | EddieTapp / RickLucas | [下载](https://url89.ctfile.com/f/31084289-1373188438-a3feba?p=8866) |
 | 摄影展览指南 | 谢丽·瑞德 | [下载](https://url89.ctfile.com/f/31084289-1439946743-809099?p=8866) |
-| Winterreise | LucDelahaye | [下载](https://url89.ctfile.com/f/31084289-1357770938-2f7c41?p=8866) |
+| Winterreise | LucDelahaye | [下载](https://url44.ctfile.com/f/66191444-17569785894658-e76a18?p=7632) |
 | 詹姆斯的风光摄影笔记（全彩） | JamesZhenYu | [下载](https://url89.ctfile.com/f/31084289-1375367797-c46085?p=8866) |
 | 爱，就这么简单 | 布拉德里·特雷弗·格里夫 | [下载](https://url89.ctfile.com/f/31084289-1375367647-6a5285?p=8866) |
-| 深濑昌久 | 濑户正人 | [下载](https://url89.ctfile.com/f/31084289-1373192783-44993c?p=8866) |
+| 深濑昌久 | 濑户正人 | [下载](https://url44.ctfile.com/f/66191444-17569785947109-ca1e07?p=7632) |
 | Thinking Photography | VictorBurgined. | [下载](https://url89.ctfile.com/f/31084289-1439957240-7e1e27?p=8866) |
 | The Moment It Clicks | JoeMcNally | [下载](https://url89.ctfile.com/f/31084289-1373205244-274d95?p=8866) |
 | Jan Saudek | JanSaudek | [下载](https://url89.ctfile.com/f/31084289-1357669655-4f8a55?p=8866) |

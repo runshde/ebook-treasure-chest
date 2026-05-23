@@ -6,5 +6,5 @@
 | 数理统计 | 师义民 / 徐伟 / 秦超英 | [下载](https://url89.ctfile.com/f/31084289-1373219179-ae6faf?p=8866) |
 | The Art of War for Writers | JamesScottBell | [下载](https://url89.ctfile.com/f/31084289-1373143564-e7e98b?p=8866) |
 | Start with Why | SimonSinek | [下载](https://url89.ctfile.com/f/31084289-1374726964-179fa9?p=8866) |
-| 不被情緒勒索的51個方法 | 和田秀樹 | [下载](https://url89.ctfile.com/f/31084289-1439910164-87c72e?p=8866) |
+| 不被情緒勒索的51個方法 | 和田秀樹 | [下载](https://url44.ctfile.com/f/66191444-17569787056365-bef57e?p=7632) |
 | 清末中国人使用的日语教材 | 鲜明 | [下载](https://url89.ctfile.com/f/31084289-1357745057-dd4170?p=8866) |

@@ -4,7 +4,7 @@
 | Extreme Ownership | JockoWillink | [下载](https://url89.ctfile.com/f/31084289-1439842160-7e9fa6?p=8866) |
 | Verity | ColleenHoover | [下载](https://url89.ctfile.com/f/31084289-1439842610-2674f1?p=8866) |
 | How To Be Right | JamesO'Brien | [下载](https://url89.ctfile.com/f/31084289-1373192537-9330ac?p=8866) |
-| Nevertheless | AlecBaldwin | [下载](https://url89.ctfile.com/f/31084289-1373199589-f60814?p=8866) |
+| Nevertheless | AlecBaldwin | [下载](https://url44.ctfile.com/f/66191444-17569786149744-b4e021?p=7632) |
 | The Paris Apartment | LucyFoley | [下载](https://url89.ctfile.com/f/31084289-1374955513-45436d?p=8866) |
 | Nip the Buds, Shoot the Kids | KenzaburoOe | [下载](https://url89.ctfile.com/f/31084289-1373338573-150ea2?p=8866) |
-| Sigh, Gone | PhucTran | [下载](https://url89.ctfile.com/f/31084289-1374724486-4d459e?p=8866) |
+| Sigh, Gone | PhucTran | [下载](https://url44.ctfile.com/f/66191444-17569787278382-31c083?p=7632) |

@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Paris Spleen | CharlesBaudelaire / LouiseVarèse | [下载](https://url89.ctfile.com/f/31084289-1374961081-2ff5a0?p=8866) |
+| Paris Spleen | CharlesBaudelaire / LouiseVarèse | [下载](https://url44.ctfile.com/f/66191444-17569786316474-dd4bc9?p=7632) |

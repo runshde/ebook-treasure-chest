@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Mrs Rosie and the Priest | GiovanniBoccaccio | [下载](https://url89.ctfile.com/f/31084289-1357029754-27a45a?p=8866) |
+| Mrs Rosie and the Priest | GiovanniBoccaccio | [下载](https://url44.ctfile.com/f/66191444-17569787047223-efca7a?p=7632) |

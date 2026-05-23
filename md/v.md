@@ -8,6 +8,6 @@
 | 民法典百问百答 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1373103103-b7f689?p=8866) |
 | 外贸成交技巧从入门到精通 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1357667114-ce24fa?p=8866) |
 | SPWM变频调速应用技术 | 张燕宾 | [下载](https://url89.ctfile.com/f/31084289-1439863214-d66dd1?p=8866) |
-| Dolce's 'Aretino' and Venetian Art Theory of the Cinquecento (RSART | MarkW.Roskill | [下载](https://url89.ctfile.com/f/31084289-1373129947-be6e76?p=8866) |
+| Dolce's 'Aretino' and Venetian Art Theory of the Cinquecento (RSART | MarkW.Roskill | [下载](https://url44.ctfile.com/f/66191444-17569786585318-b2cabe?p=7632) |
 | 赖世雄零起点英语.2,基础篇 | 赖世雄 / 吴纪维 | [下载](https://url89.ctfile.com/f/31084289-1374948547-ed5d04?p=8866) |
 | 中国失眠障碍诊断和治疗指南 | 张斌 | [下载](https://url89.ctfile.com/f/31084289-1373141809-3862f2?p=8866) |

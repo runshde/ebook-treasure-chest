@@ -5,9 +5,9 @@
 | Ansible自动化运维：技术与佳实践 | 陈金窗 / 沈灿 / 刘政委 | [下载](https://url89.ctfile.com/f/31084289-1358050205-362f16?p=8866) |
 | Python Linux系统管理与自动化运维 | 赖明星 | [下载](https://url89.ctfile.com/f/31084289-1439963051-9dd0d5?p=8866) |
 | 持续交付2.0 | 乔梁 | [下载](https://url89.ctfile.com/f/31084289-1373019247-fe98bc?p=8866) |
-| Jenkins 2权威指南 | 布伦特·莱斯特 | [下载](https://url89.ctfile.com/f/31084289-1373199043-21a22c?p=8866) |
+| Jenkins 2权威指南 | 布伦特·莱斯特 | [下载](https://url44.ctfile.com/f/66191444-17569785147252-82fd33?p=7632) |
 | GitOps and Kubernetes | BillyYuen / AlexanderMatyushentsev / ToddEkenstam | [下载](https://url89.ctfile.com/f/31084289-1373124649-c4586b?p=8866) |
-| Knative实战:基于Kubernetes的无服务器架构实践 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1357658693-12560b?p=8866) |
+| Knative实战:基于Kubernetes的无服务器架构实践 | 未知 | [下载](https://url44.ctfile.com/f/66191444-17569786150241-974ec1?p=7632) |
 | Puppet 3.0 Beginner's Guide | Arundel / John | [下载](https://url89.ctfile.com/f/31084289-1373201008-36f6df?p=8866) |
 | Ansible权威指南 | 李松涛 | [下载](https://url89.ctfile.com/f/31084289-1439861270-bb3a51?p=8866) |
 | NetDevOps入门与实践 | 余欣 | [下载](https://url89.ctfile.com/f/31084289-1439863046-39a164?p=8866) |

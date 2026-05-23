@@ -20,5 +20,5 @@
 | Consulting Demons | LewisPinault | [下载](https://url89.ctfile.com/f/31084289-1357676417-354b4f?p=8866) |
 | 法务之道：职业定位、核心技能与职业环境 | 杭东霞 | [下载](https://url89.ctfile.com/f/31084289-1373136352-d1afeb?p=8866) |
 | 如何成为创意组织 | 凯斯·索耶 | [下载](https://url89.ctfile.com/f/31084289-1361609060-1133c1?p=8866) |
-| Model Business Letters, Emails and Other Business Documents | ShirleyTaylor | [下载](https://url89.ctfile.com/f/31084289-1439909576-96851c?p=8866) |
+| Model Business Letters, Emails and Other Business Documents | ShirleyTaylor | [下载](https://url44.ctfile.com/f/66191444-17569785154487-0a809c?p=7632) |
 | The E-Myth Revisited | MichaelE.Gerber | [下载](https://url89.ctfile.com/f/31084289-1439909723-8101eb?p=8866) |

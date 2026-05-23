@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| Vector Basic Training | VonR.Glitschka | [下载](https://url89.ctfile.com/f/31084289-1357762586-b4aabc?p=8866) |
+| Vector Basic Training | VonR.Glitschka | [下载](https://url44.ctfile.com/f/66191444-17569785342317-a87223?p=7632) |

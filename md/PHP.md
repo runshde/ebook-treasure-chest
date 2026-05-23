@@ -6,8 +6,8 @@
 | Zend Framework in Action | RobAllen / NickLo / StevenBrown | [下载](https://url89.ctfile.com/f/31084289-1439946626-db62ed?p=8866) |
 | Firebug 1.5 | ChandanLuthra / DeepakMittal | [下载](https://url89.ctfile.com/f/31084289-1357772393-5444f5?p=8866) |
 | PHP核心技术与最佳实践（第2版） | 列旭松 / 陈文 | [下载](https://url89.ctfile.com/f/31084289-1359238691-ea504b?p=8866) |
-| 深入PHP：面向对象、模式与实践（第5版） | 马特•赞德斯彻 | [下载](https://url89.ctfile.com/f/31084289-1439864072-f27da5?p=8866) |
-| Laravel框架关键技术解析 | 陈昊 / 陈远征 / 陶业荣 | [下载](https://url89.ctfile.com/f/31084289-1439874428-dd3948?p=8866) |
+| 深入PHP：面向对象、模式与实践（第5版） | 马特•赞德斯彻 | [下载](https://url44.ctfile.com/f/66191444-17569786314175-f4a8c2?p=7632) |
+| Laravel框架关键技术解析 | 陈昊 / 陈远征 / 陶业荣 | [下载](https://url44.ctfile.com/f/66191444-17569786390749-2ec942?p=7632) |
 | Modern PHP（中文版） | JoshLockhart | [下载](https://url89.ctfile.com/f/31084289-1439878547-f183f4?p=8866) |
 | PHP in Action | DagfinnReiersol / MarcusBaker / ChrisShiflett | [下载](https://url89.ctfile.com/f/31084289-1373152750-9c612c?p=8866) |
 | PHP Objects, Patterns, and Practice | MattZandstra | [下载](https://url89.ctfile.com/f/31084289-1439915984-554fb0?p=8866) |

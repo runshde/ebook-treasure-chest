@@ -8,4 +8,4 @@
 | Letters of William Gaddis | 威廉姆·加迪斯 | [下载](https://url89.ctfile.com/f/31084289-1374953584-5d25a4?p=8866) |
 | Periplus of the Erythraean Sea | 未知 | [下载](https://url89.ctfile.com/f/31084289-1357674899-d9c711?p=8866) |
 | The Classic of Mountains and Seas | AnneBirrell | [下载](https://url89.ctfile.com/f/31084289-1373143396-e3e689?p=8866) |
-| Ashtanga Yoga | Maehle / Gregor | [下载](https://url89.ctfile.com/f/31084289-1439910512-631592?p=8866) |
+| Ashtanga Yoga | Maehle / Gregor | [下载](https://url44.ctfile.com/f/66191444-17569787059681-b615a2?p=7632) |

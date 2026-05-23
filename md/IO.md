@@ -1,3 +1,3 @@
 | 书名 | 作者 | epub/mobi/azw3 |
 | --- | --- | --- |
-| The Theory of Industrial Organization | JeanTirole | [下载](https://url89.ctfile.com/f/31084289-1439918336-cc624d?p=8866) |
+| The Theory of Industrial Organization | JeanTirole | [下载](https://url44.ctfile.com/f/66191444-17569785247599-c17298?p=7632) |
