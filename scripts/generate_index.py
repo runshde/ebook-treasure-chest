@@ -154,6 +154,8 @@ def render_content(grouped, stats=None):
                 lines.append(f"#### ⭐ Level: {level}\n")
 
                 books_list = grouped[category][language][level]
+                # 优先显示自有链接（66191444），其次是其他链接
+                books_list = sorted(books_list, key=lambda b: 0 if "66191444" in b.get("link", "") else 1)
                 # 每个分类-语言-级别组合最多显示10本书
                 max_books_per_section = 10
                 if len(books_list) > max_books_per_section:
@@ -365,7 +367,6 @@ def generate_html(md_content):
     <meta property="og:type" content="website">
     
     <!-- Preload critical resources -->
-    <link rel="preload" href="all-books.json" as="fetch" crossorigin>
     <link rel="preload" href="search.js" as="script">
     
     <title>📚 电子书下载宝库 - Ebook Treasure Chest</title>
@@ -846,7 +847,7 @@ def generate_html(md_content):
 <footer class="footer-note">
     <p>📚 电子书下载宝库 </p>
     <p style="margin-top: 8px; font-size: 12px;">
-        <a href="https://github.com/jbiaojerry/ebook-treasure-chest" target="_blank" rel="noopener">GitHub 仓库</a> |
+        <a href="https://github.com/runshde/ebook-treasure-chest" target="_blank" rel="noopener">GitHub 仓库</a> |
         <a href="README.md" target="_blank">使用说明</a>
     </p>
 </footer>

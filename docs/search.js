@@ -3,50 +3,28 @@ let searchTimeout = null;
 const MAX_RESULTS = 100; // 最多显示100条结果
 
 async function loadBooks() {
-  console.log("🔄 开始加载书籍数据...");
-  
   try {
-    // 优先加载 all-books.json（包含所有 md 文件的数据）
-    console.log("📥 尝试加载 all-books.json...");
-    const res = await fetch("all-books.json");
-    
+    // 加载去重索引（~14MB，原 all-books.json 去重版）
+    const res = await fetch("search-index.json");
+
     if (res.ok) {
       const data = await res.json();
       books = data;
-      console.log(`✅ 已加载 ${books.length} 本书籍（来自 all-books.json）`);
-      
-      // 显示加载成功的提示
       const searchBox = document.querySelector('input[type="text"]');
       if (searchBox) {
-        const originalPlaceholder = searchBox.placeholder;
+        const orig = searchBox.placeholder;
         searchBox.placeholder = `已加载 ${books.length.toLocaleString()} 本书，开始搜索...`;
-        setTimeout(() => {
-          searchBox.placeholder = originalPlaceholder;
-        }, 3000);
+        setTimeout(() => { searchBox.placeholder = orig; }, 3000);
       }
       return;
-    } else {
-      console.warn(`⚠️  all-books.json 返回状态码: ${res.status}`);
     }
   } catch (e) {
-    console.warn("⚠️  all-books.json 加载失败:", e);
+    console.warn("search-index.json 加载失败:", e);
   }
-  
-  // 降级到 books.json（metadata 数据）
-  try {
-    console.log("📥 尝试加载 books.json...");
-    const res = await fetch("books.json");
-    if (res.ok) {
-      books = await res.json();
-      console.log(`✅ 已加载 ${books.length} 本书籍（来自 books.json，metadata 数据）`);
-      console.warn("💡 提示：建议运行 'python scripts/parse_md_to_json.py' 生成完整的 all-books.json");
-    } else {
-      console.error(`❌ books.json 返回状态码: ${res.status}`);
-    }
-  } catch (e) {
-    console.error("❌ 无法加载书籍数据", e);
-    alert("⚠️ 无法加载书籍数据，请检查网络连接或刷新页面重试");
-  }
+
+  console.error("无法加载书籍数据，请刷新页面重试");
+  const box = document.getElementById("search-results");
+  if (box) box.innerHTML = "<p style='padding:20px;color:#dc322f;'>⚠️ 书籍数据加载失败，请刷新页面重试</p>";
 }
 
 function searchBooks(keyword) {
