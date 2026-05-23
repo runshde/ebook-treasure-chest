@@ -10,6 +10,9 @@ async function loadBooks() {
     if (res.ok) {
       const data = await res.json();
       books = data;
+      // 清除加载提示，让搜索框可用
+      const box = document.getElementById("search-results");
+      if (box) box.innerHTML = "";
       const searchBox = document.querySelector('input[type="text"]');
       if (searchBox) {
         const orig = searchBox.placeholder;
@@ -180,10 +183,10 @@ function renderResults(results, keyword) {
 function onSearch(e) {
   const keyword = e.target.value.trim();
   
-  // 检查数据是否已加载
+  // 数据还在加载中，提示等待
   if (books.length === 0) {
     const box = document.getElementById("search-results");
-    box.innerHTML = "<p style='padding: 20px; text-align: center; color: #d73a49;'>⏳ 正在加载书籍数据，请稍候...</p>";
+    if (box) box.innerHTML = "<p style='padding: 20px; text-align: center; color: #b58900;'>⏳ 数据加载中，请稍候再搜索...</p>";
     return;
   }
   
