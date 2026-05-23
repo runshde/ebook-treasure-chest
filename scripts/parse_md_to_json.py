@@ -166,15 +166,18 @@ def main():
     print(f"\n✅ JSON 文件已生成: {OUTPUT_JSON}")
     print(f"📦 文件大小: {OUTPUT_JSON.stat().st_size / 1024 / 1024:.2f} MB")
     
+    # 去重计算真实唯一书目数（同一本书在多个分类 md 里重复出现）
+    unique_books = len({(b.get('title', ''), b.get('author', '')) for b in all_books})
+
     # 保存统计信息
     stats = {
         'total_files': total_files,
         'success_files': success_files,
         'error_files': len(error_files),
-        'total_books': len(all_books),
+        'total_books': unique_books,          # 唯一书目数（去重后）
         'categories_count': len(category_stats),
         'top_categories': dict(sorted(category_stats.items(), key=lambda x: x[1], reverse=True)[:20]),
-        'error_file_list': error_files[:10]  # 只保存前10个错误文件
+        'error_file_list': error_files[:10]
     }
     
     with open(STATS_FILE, 'w', encoding='utf-8') as f:
