@@ -9,7 +9,7 @@
 | The Cambridge History of Ancient China | MichaelLoewe / EdwardL.Shaughnessy | [下载](https://url89.ctfile.com/f/31084289-1357761992-03735e?p=8866) |
 | Gulag | AnneApplebaum | [下载](https://url89.ctfile.com/f/31084289-1357039219-530b32?p=8866) |
 | Oblique Drawing | MassimoScolari | [下载](https://url89.ctfile.com/f/31084289-1373172232-c53590?p=8866) |
-| 755年-中国历史盛衰之交 | 吴蔚 | [下载](https://url89.ctfile.com/f/31084289-1373174092-df3662?p=8866) |
+| 755年-中国历史盛衰之交 | 吴蔚 | [下载](https://url44.ctfile.com/f/66191444-17569789425905-2debee?p=7632) |
 | Roll, Jordan, Roll | EugeneD.Genovese | [下载](https://url89.ctfile.com/f/31084289-1439835860-afc436?p=8866) |
 | 欧洲史 | 德尼兹・加亚尔 / 贝尔纳代特・德尚 | [下载](https://url89.ctfile.com/f/31084289-1373179462-d7181d?p=8866) |
 | A History Of The World In Six Glasses | TomStandage | [下载](https://url89.ctfile.com/f/31084289-1439836091-f289d3?p=8866) |

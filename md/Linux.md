@@ -64,7 +64,7 @@
 | Ubuntu Linux Bible | WilliamvonHagen | [下载](https://url89.ctfile.com/f/31084289-1373116396-b52b1f?p=8866) |
 | Linux Firewalls | MichaelRash | [下载](https://url89.ctfile.com/f/31084289-1373116795-9c0228?p=8866) |
 | 鸟哥的Linux私房菜：服务器架设篇（第三版） | 鸟哥 | [下载](https://url89.ctfile.com/f/31084289-1357022671-598d7f?p=8866) |
-| 鸟哥的Linux私房菜：基础学习篇（第三版） | 鸟哥 | [下载](https://url89.ctfile.com/f/31084289-1357022668-37c4df?p=8866) |
+| 鸟哥的Linux私房菜：基础学习篇（第三版） | 鸟哥 | [下载](https://url44.ctfile.com/f/66191444-17569789423495-4f9e74?p=7632) |
 | Android系统源代码情景分析 | 罗升阳 | [下载](https://url89.ctfile.com/f/31084289-1439875220-52ab2d?p=8866) |
 | C++新经典：Linux C++通信架构实战 | 王健伟 | [下载](https://url89.ctfile.com/f/31084289-1439875784-a0a4cd?p=8866) |
 | 曝光：Linux企业运维实战 | 未知 | [下载](https://url89.ctfile.com/f/31084289-1439876900-58da27?p=8866) |

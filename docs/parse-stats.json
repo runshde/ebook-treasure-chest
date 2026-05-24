@@ -2,9 +2,10 @@
   "total_files": 59835,
   "success_files": 59834,
   "error_files": 1,
-  "total_books": 56200,
+  "total_books": 57447,
   "categories_count": 59834,
   "top_categories": {
+    "文学": 1149,
     "科幻": 959,
     "德国": 953,
     "漫画": 926,
@@ -23,10 +24,9 @@
     "物理": 731,
     "军事": 728,
     "英文原版": 720,
-    "古典文学": 702,
-    "艺术史": 696
+    "古典文学": 702
   },
   "error_file_list": [
-    "/home/runner/work/ebook-treasure-chest/ebook-treasure-chest/md/热门分类.md"
+    "/root/ebook-upload/ebook-treasure-chest/md/热门分类.md"
   ]
 }
