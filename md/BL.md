@@ -10,5 +10,5 @@
 | 活受罪、長相守 | tangstory | [下载](https://url89.ctfile.com/f/31084289-1374727213-5ce573?p=8866) |
 | 小蘑菇 | 一十四洲 | [下载](https://url89.ctfile.com/f/31084289-1374727195-24cd1e?p=8866) |
 | 迪奧先生 VOL.01 | 綠野千鶴 / 绿野千鹤 | [下载](https://url89.ctfile.com/f/31084289-1356301708-e9d370?p=8866) |
-| 锦衣卫 | 非天夜翔 | [下载](https://url89.ctfile.com/f/31084289-1374726661-4f8ea6?p=8866) |
+| 锦衣卫 | 非天夜翔 | [下载](https://url44.ctfile.com/f/66191444-17569789620290-7da4b0?p=7632) |
 | Red, White & Royal Blue | CaseyMcQuiston | [下载](https://url89.ctfile.com/f/31084289-1357030360-475186?p=8866) |

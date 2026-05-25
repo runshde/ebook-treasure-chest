@@ -13,7 +13,7 @@
 | 摄影展览指南 | 谢丽·瑞德 | [下载](https://url89.ctfile.com/f/31084289-1439946743-809099?p=8866) |
 | Winterreise | LucDelahaye | [下载](https://url44.ctfile.com/f/66191444-17569785894658-e76a18?p=7632) |
 | 詹姆斯的风光摄影笔记（全彩） | JamesZhenYu | [下载](https://url89.ctfile.com/f/31084289-1375367797-c46085?p=8866) |
-| 爱，就这么简单 | 布拉德里·特雷弗·格里夫 | [下载](https://url89.ctfile.com/f/31084289-1375367647-6a5285?p=8866) |
+| 爱，就这么简单 | 布拉德里·特雷弗·格里夫 | [下载](https://url44.ctfile.com/f/66191444-17569789620584-449837?p=7632) |
 | 深濑昌久 | 濑户正人 | [下载](https://url44.ctfile.com/f/66191444-17569785947109-ca1e07?p=7632) |
 | Thinking Photography | VictorBurgined. | [下载](https://url89.ctfile.com/f/31084289-1439957240-7e1e27?p=8866) |
 | The Moment It Clicks | JoeMcNally | [下载](https://url89.ctfile.com/f/31084289-1373205244-274d95?p=8866) |

@@ -63,7 +63,7 @@
 | Passion simple | AnnieErnaux | [下载](https://url89.ctfile.com/f/31084289-1374726283-b95d29?p=8866) |
 | Réussir le DELF B2 | AurélienBaptiste / RoselyneMarty | [下载](https://url89.ctfile.com/f/31084289-1373152090-6d2004?p=8866) |
 | Le post-exotisme en dix lecons, leçon onze | AntoineVolodine | [下载](https://url44.ctfile.com/f/66191444-17569787067390-d4159e?p=7632) |
-| La Faculté de juger | J.-L.Nancy / J.Derrida / V.Descombes | [下载](https://url89.ctfile.com/f/31084289-1439914469-011ed1?p=8866) |
+| La Faculté de juger | J.-L.Nancy / J.Derrida / V.Descombes | [下载](https://url44.ctfile.com/f/66191444-17569789620445-908e8c?p=7632) |
 | Test de connaissance du français | Jean-LouisBoursin | [下载](https://url89.ctfile.com/f/31084289-1439915555-d6df13?p=8866) |
 | L'un vers l'autre | FrançoisCheng | [下载](https://url89.ctfile.com/f/31084289-1374724456-6ba0d1?p=8866) |
 | 法语语法点点通（高级） | IsabelleChollet / Jean-michelRobert | [下载](https://url89.ctfile.com/f/31084289-1439917760-e23a5f?p=8866) |
