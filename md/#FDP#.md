@@ -10,7 +10,7 @@
 | 软件工程（原书第8版·本科教学版） | 未知 | [下载](https://url89.ctfile.com/f/31084289-1357765436-b9d54a?p=8866) |
 | 电脑维修基础不是事儿（附DVD光盘）（全彩） | 未知 | [下载](https://url89.ctfile.com/f/31084289-1362006194-8d8a82?p=8866) |
 | The Probability Lifesaver | StevenJ.Miller | [下载](https://url44.ctfile.com/f/66191444-17569785687399-fd7db1?p=7632) |
-| Open Circuits | EricSchlaepfer / WindellH.Oskay | [下载](https://url89.ctfile.com/f/31084289-1373193305-d695d4?p=8866) |
+| Open Circuits | EricSchlaepfer / WindellH.Oskay | [下载](https://url44.ctfile.com/f/66191444-17569791606630-2ace9f?p=7632) |
 | 系统编程 | RichardJohnAnthony | [下载](https://url89.ctfile.com/f/31084289-1439957303-646cf8?p=8866) |
 | 半导体器件物理与工艺（第三版） | 未知 | [下载](https://url89.ctfile.com/f/31084289-1439861657-04cd88?p=8866) |
 | Leni Riefenstahl | LeniRiefenstahl | [下载](https://url44.ctfile.com/f/66191444-17569786322329-625b81?p=7632) |
